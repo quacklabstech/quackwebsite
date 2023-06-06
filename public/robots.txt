@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+Sitemap: https://www.quacklabs.in/sitemap.xml
