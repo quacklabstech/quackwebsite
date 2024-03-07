@@ -102,7 +102,7 @@
                         <div class="portfolio-detls pdr-dtls">
                             <p class="port-tags">Book Cloud Hosting</p>
                             <a href="https://webservices.quacklabs.in/cloudhosting.php" target="_blank" class="port-title-main">Maximize your online presence with cloud hosting</a>
-                            <p class="mb30">Pellentesque a sagittis purus. Phasellus enim lorem, ullamcorper non condimentum vitae, tristique quis ex. Ut a rutrum nulla. Proin vel tellus sem. Curabitur sed rutrum dolor. Suspendisse faucibus semper mi ac vehicula. Ut facilisis diam tempus ante aliquet convallis. Nam lobortis magna non mattis interdum. Cras vehicula rutrum risus, sit amet cursus nibh accumsan sit amet. Donec sed fermentum ante. Suspendisse consectetur dictum accumsan. </p>
+                            <p class="mb30">Boost your internet visibility by using Book Cloud Hosting. Your website will have the best possible performance, security, and flexibility thanks to our dependable and scalable cloud hosting solutions. Take advantage of smooth online activities right now! </p>
                             <a href="https://webservices.quacklabs.in/cloudhosting.php" target="_blank" class="port-links">View More <i class="fas fa-arrow-right fa-btn"></i></a>
 
                         </div>
@@ -115,7 +115,7 @@
                             <p class="port-tags">Book Server</p>
                             <a href="https://webservices.quacklabs.in/virtualserverlinux-hosting.php" target="_blank" class="port-title-main">High-performance Servers for Faster
                                 Websites & Applications</a>
-                            <p class="mb30">Pellentesque a sagittis purus. Phasellus enim lorem, ullamcorper non condimentum vitae, tristique quis ex. Ut a rutrum nulla. Proin vel tellus sem. Curabitur sed rutrum dolor. Suspendisse faucibus semper mi ac vehicula. Ut facilisis diam tempus ante aliquet convallis. Nam lobortis magna non mattis interdum. Cras vehicula rutrum risus, sit amet cursus nibh accumsan sit amet. Donec sed fermentum ante. Suspendisse consectetur dictum accumsan. </p>
+                            <p class="mb30">High-performance solutions for quicker webpages and apps are provided by Book Server. Make the most of scalability, speed, and dependability with our state-of-the-art server technology. Boost your internet visibility right now!</p>
                             <a href="https://webservices.quacklabs.in/virtualserverlinux-hosting.php" target="_blank" class="port-links ">View More <i class="fas fa-arrow-right fa-btn"></i></a>
 
                         </div>
@@ -142,7 +142,7 @@
                         <div class="portfolio-detls pdl-dtls">
                             <p class="port-tags">Security</p>
                             <a href="https://webservices.quacklabs.in/digital-certificate" target="_blank" class="port-title-main">Web Security</a>
-                            <p class="mb30">Pellentesque a sagittis purus. Phasellus enim lorem, ullamcorper non condimentum vitae, tristique quis ex. Ut a rutrum nulla. Proin vel tellus sem. Curabitur sed rutrum dolor. Suspendisse faucibus semper mi ac vehicula. Ut facilisis diam tempus ante aliquet convallis. Nam lobortis magna non mattis interdum. Cras vehicula rutrum risus, sit amet cursus nibh accumsan sit amet. Donec sed fermentum ante. Suspendisse consectetur dictum accumsan. </p>
+                            <p class="mb30">Use our all-inclusive solutions to guarantee strong web security. Defend your online presence from attacks and weaknesses, protecting private information and upholding user confidence. </p>
                             <a href="https://webservices.quacklabs.in/digital-certificate" target="_blank" class="port-links ">View More <i class="fas fa-arrow-right fa-btn"></i></a>
 
                         </div>
@@ -155,7 +155,7 @@
                             <p class="port-tags">Website Builder</p>
                             <a href="https://webservices.quacklabs.in/website-design/index.php" target="_blank" class="port-title-main">
                                 Build your dream website in minutes</a>
-                            <p class="mb30">Pellentesque a sagittis purus. Phasellus enim lorem, ullamcorper non condimentum vitae, tristique quis ex. Ut a rutrum nulla. Proin vel tellus sem. Curabitur sed rutrum dolor. Suspendisse faucibus semper mi ac vehicula. Ut facilisis diam tempus ante aliquet convallis. Nam lobortis magna non mattis interdum. Cras vehicula rutrum risus, sit amet cursus nibh accumsan sit amet. Donec sed fermentum ante. Suspendisse consectetur dictum accumsan. </p>
+                            <p class="mb30">With our user-friendly website builder, you may enhance your online vision. Create your own website with ease in a matter of minutes—no coding knowledge needed. Easily and effectively establish your online presence.</p>
                             <a href="https://webservices.quacklabs.in/website-design/index.php" target="_blank" class="port-links ">View More <i class="fas fa-arrow-right fa-btn"></i></a>
 
                         </div>
@@ -230,7 +230,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6 col-6">
                     <div class="industry-workfor"><img src="{{asset('images/icons/taxi.svg')}}" alt="img">
-                        <h6>Transport</h6>
+                        <h6>Transport</h6> 
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-6">
@@ -303,3 +303,10 @@
     </section>
     <!--end cta-->
 @endsection
+
+
+
+
+
+
+,

@@ -83,7 +83,7 @@
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">
                             Enterprise Backup​</h3>
-                        <p class="mb-0">SBA Info understands the importance of a robust, resilient, and tailored enterprise-wide backup solution. Our Enterprise Backup offering streamlines and simplifies the enterprise data protection in complex IT environment which consist of multiple platforms and applications.<br><br><br> </p>
+                        <p class="mb-0">SBA Info understands the importance of a robust, resilient, and tailored enterprise-wide backup solution. Our Enterprise Backup offering streamlines and simplifies the enterprise data protection in complex IT environment which consist of multiple platforms and applications. <br><br></p>
                     </div>
 
                 </div>
@@ -113,7 +113,7 @@
                         <h3 class="mb15">
                             Cloud Backup​</h3>
                         <p>
-                            We help you extend enterprise backup to the Cloud without increasing the management burden on your IT team. As a leader in backup and disaster recovery solutions, SBA Info advices cloud-based backup for public/multi/hybrid environments and help you to achieve operational efficiency and resiliency. Our solution eliminates the cost to maintain long term tape-based backups and enable consumption of low-cost public cloud storage. Our Cloud Backup offering enables enterprises to protect SaaS applications, including Microsoft Office 365, data center workloads and end-point devices.<br><br>
+                            We help you extend enterprise backup to the Cloud without increasing the management burden on your IT team. As a leader in backup and disaster recovery solutions, SBA Info advices cloud-based backup for public/multi/hybrid environments and help you to achieve operational efficiency and resiliency. Our solution eliminates the cost to maintain long term tape-based backups and enable consumption of low-cost public cloud storage. Our Cloud Backup offering enables enterprises to protect SaaS applications, including Microsoft Office 365, data center workloads and end-point devices.<br><br><br>
                         </p>
                     </div>
                 </div>

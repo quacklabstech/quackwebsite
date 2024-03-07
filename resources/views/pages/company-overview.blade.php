@@ -43,7 +43,7 @@
 	<section class="r-bg-a sec-pad">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-4">
+				<div class="col-lg-4 mt-5">
 					<div class="sol-img m-mt30">
 						<img src="{{asset('images/others/team-business.jpg')}}" alt="Quack office" class="img-fluid">
 					</div>
@@ -60,22 +60,19 @@
 				<div class="col-lg-4 mt30">
 					<div class="pera-block">
 						<h4>Customer Satisfaction.</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>The core of all we do at our IT services and consulting business is customer satisfaction. Delivering outstanding solutions and comprehending our clients' demands are our top priorities.</p>
 					</div>
 				</div>
 				<div class="col-lg-4 mt30">
 					<div class="pera-block">
 						<h4> Marketing Strategies</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>Developing successful marketing plans is essential for our IT consulting and services business. They include competitive analysis, analyzing customer needs, and implementing focused marketing for the best outcomes.</p>
 					</div>
 				</div>
 				<div class="col-lg-4 mt30">
 					<div class="pera-block">
 						<h4>After-Sales Service.</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>An essential component of our IT services and consulting business is after-sales support. Our dedication lies in offering all-encompassing assistance to guarantee customer contentment even after the buy.</p>
 					</div>
 				</div>
 			</div>

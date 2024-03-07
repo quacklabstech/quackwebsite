@@ -48,8 +48,8 @@
         </div>
       </div>
       <div class="row our-team">
-        <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-          <div class="ree-media-crd">
+        <div class="col-lg-3 col-md-6 col-sm-12 col-12 mb-5">
+          <div class="ree-media-crd h-100">
             <div class="rpl-img team-img" data-background="{{asset('images/team/akash.png')}}">
               <div class="icons">
                 <a href="https://www.facebook.com/d.ace.akash.annu/" target="_blank"><i class="fab fa-facebook-f"></i></a>
@@ -62,8 +62,22 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 col-sm-6 col-6">
-          <div class="ree-media-crd">
+        {{-- <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-5">
+          <div class="ree-media-crd h-100">
+            <div class="rpl-img team-img" data-background="{{asset('images/team/alok.png')}}">
+              <div class="icons">
+                <a href="https://www.linkedin.com/pulse/finally-completed-my-portfolio-alok-kumar-gochhayat?trk=public_profile_article_view" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href="https://www.instagram.com/alok.css/" target="_blank"><i class="fab fa-instagram"></i></a>
+              </div>
+            </div>
+            <div class="rpl-contt pt20">
+              <h4>Alok Kumar Gochhayat</h4>
+              <p>UI/UX Engineer</p>
+            </div>
+          </div>
+        </div> --}}
+        <div class="col-lg-3 col-md-6 col-sm-12 col-12 mb-5">
+          <div class="ree-media-crd h-100">
             <div class="rpl-img team-img" data-background="{{asset('images/team/alok.png')}}">
               <div class="icons">
                 <a href="https://www.linkedin.com/pulse/finally-completed-my-portfolio-alok-kumar-gochhayat?trk=public_profile_article_view" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -76,8 +90,8 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-          <div class="ree-media-crd">
+        <div class="col-lg-3 col-md-6 col-sm-12 col-12 mb-5">
+          <div class="ree-media-crd h-100">
             <div class="rpl-img team-img" data-background="{{asset('images/team/sarit.png')}}">
               <div class="icons">
 
@@ -94,8 +108,8 @@
           </div>
         </div>
 
-        <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-          <div class="ree-media-crd">
+        <div class="col-lg-3 col-md-6 col-sm-12 col-12 mb-5">
+          <div class="ree-media-crd h-100">
             <div class="rpl-img team-img" data-background="{{asset('images/team/dipti.png')}}">
               <div class="icons">
                 <a href="https://twitter.com/Shrijatinranjan/" target="_blank"><i class="fab fa-twitter"></i></a>
@@ -124,14 +138,15 @@
         </div>
         <div class="col-lg-3 col-md-6 col-sm-12 col-12">
           <div class="ree-media-crd">
-            <div class="rpl-img team-img" data-background="{{asset('images/team/saroj.png')}}">
+            <div class="rpl-img team-img" data-background="{{asset('images/team/sawan.jpeg')}}">
               <div class="icons">
                 <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/s-sawan-kumar-achary-a4b20316b" target="_blank"><i class="fab fa-linkedin"></i></a>
               </div>
             </div>
             <div class="rpl-contt pt20">
-              <h4>Saroj Kumar Swain</h4>
-              <p>UI Developer</p>
+              <h4>S Sawan Kumar Achary</h4>
+              <p>Laravel Developer</p>
             </div>
           </div>
         </div>

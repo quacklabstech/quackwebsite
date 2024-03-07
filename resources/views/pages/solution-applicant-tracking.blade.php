@@ -81,9 +81,9 @@
 					<div class="ree-card  mt60">
 						<div class="ree-card-img"><img src="{{asset('images/icons/dashboard.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
-							<h3 class="mb15">ATS Application Portal Software
+							<h3 class="mb15">ATS Application <br> Portal Software
 								Development</h3>
-							<p class="mb-2">Custom ATS application portals facilitate the candidate screening process, parse resumes in PDF files or .docx formats, generate contact lists, and automate emails. <br><br></p>
+							<p class="mb-0">Custom ATS application portals facilitate the candidate screening process, parse resumes in PDF files or .docx formats, generate contact lists, and automate emails. </p>
 						</div>
 
 					</div>
@@ -105,7 +105,7 @@
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Interview Management Module
 								Development</h3>
-							<p>Robust interview management platforms incorporate interview scheduling capabilities and calendar modules, integrated with MS Outlook and video conferencing software.<br><br></p>
+							<p>Robust interview management platforms incorporate interview scheduling capabilities and calendar modules, integrated with MS Outlook and video conferencing software.</p>
 						</div>
 
 					</div>
@@ -168,8 +168,8 @@
 				</div>
 			</div>
 			<div class="row justify-content-center mt30">
-				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex">
+					<div class="process-content ree-card d-flex flex-column">
 						<span class="setps hst-1">01</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -180,8 +180,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex">
+					<div class="process-content ree-card d-flex flex-column">
 						<span class="setps hst-2">02</span>
 						<div class="process-block ">
 							<div class="process-icon">
@@ -192,8 +192,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 mt30 ">
-					<div class="process-content ree-card">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex ">
+					<div class="process-content ree-card d-flex flex-column">
 						<span class="setps hst-3">03</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -204,8 +204,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex">
+					<div class="process-content ree-card d-flex flex-column">
 						<span class="setps hst-4">04</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -216,8 +216,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex">
+					<div class="process-content ree-card d-flex flex-column">
 						<span class="setps hst-4">05</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -228,8 +228,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex">
+					<div class="process-content ree-card d-flex flex-column">
 						<span class="setps hst-4">06</span>
 						<div class="process-block">
 							<div class="process-icon">

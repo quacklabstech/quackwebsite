@@ -59,8 +59,8 @@
         </div>
 
         <div class="row mt30">
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/vlogger.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">YouTube Influencer Marketing</h3>
@@ -73,8 +73,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/instagram.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Instagram Influencer Marketing</h3>
@@ -87,8 +87,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/micro-infu.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Barter with Micro Influencers</h3>
@@ -97,8 +97,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-6 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-6 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/meme.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Meme Marketing</h3>
@@ -107,8 +107,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-6 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-6 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/model.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Celebrity Endorsements</h3>

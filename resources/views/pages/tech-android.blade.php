@@ -166,7 +166,7 @@
 					</div>
 					<div class="col-lg-6 vcenter text-center">
 						<div class="sol-img-png">
-							<img src="images/cta/team-support.svg" alt="working with client" class="img-fluid">
+							<img src= "{{asset('images/cta/team-support.svg')}}" alt="working with client" class="img-fluid">
 						</div>
 					</div>
 				</div>

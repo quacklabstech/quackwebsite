@@ -76,7 +76,7 @@
 						<div class="ree-card-img"><img src="{{asset('images/icons/html-5.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">HTML5 Design Services</h3>
-							<p>Our HTML experts work with w3c standards and verify W3C validation when action HTML5 design services to the clients.</p>
+							<p>Our HTML experts work with w3c standards and verify W3C validation when action HTML5 design services to the clients. <br><br></p>
 						</div>
 
 					</div>
@@ -178,7 +178,7 @@
 								<img src="{{asset('images/icons/creativity.svg')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Bespoke Web Design</h4>
-							<p>We craft bespoke web designs to suit your specific needs and offer user-friendly features to your target audience. Of course, all our services fit well into your budget.</p>
+							<p>We craft bespoke web designs to suit your specific needs and offer user-friendly features tailored to your target audience. Of course, all our services fit well within your budget constraints.</p>
 						</div>
 					</div>
 				</div>
@@ -202,7 +202,7 @@
 								<img src="{{asset('images/icons/computer.svg')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Credible Look</h4>
-							<p>Good web design is not only with great visuals. You also need a credible look, professional features, functional excellence and easy browsing structure.</p>
+							<p class="pt-1">Good web design is not only about great visuals. You also need a credible look, professional features, functional excellence, easy browsing structure, and intuitive navigation.</p>
 						</div>
 					</div>
 				</div>

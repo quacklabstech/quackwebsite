@@ -27,14 +27,14 @@
                         <a href="#jobsection" class="port-links mt40" data-aos="fade-up" data-aos-delay="800">Join Our Team <i class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 mt-5">
                     <div class="sol-img m-mt30" data-aos="fade-in" data-aos-delay="400"><img src="{{asset('images/others/car-banner.jpg')}}" alt="interview" class="img-fluid"></div>
                 </div>
             </div>
         </div>
     </div>
     <!--page head end-->
-
+    
     <!--career benefits-->
     <section class="r-bg-a sec-pad">
         <div class="container">
@@ -46,7 +46,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center mt30">
+            {{-- <div class="row justify-content-center mt30">
                 <div class="col-lg-3 col-md-6 col-sm-6 mt30">
                     <div class="process-content ree-card">
                         <div class="process-block">
@@ -135,7 +135,97 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
+            <div class="row justify-content-center mt30">
+                <div class="col-lg-3 col-md-6 col-sm-6 mt30">
+                   <div class="process-content ree-card">
+                      <div class="process-block">
+                         <div class="process-icon">
+                            <img src="{{asset('images/icons/peace-of-mind.svg')}}" alt="service" class="icon70 mb15">
+                         </div>
+                         <h4>Peace of <br> mind</h4>
+                         <p>In our encouraging and fulfilling work environment, find peace of mind. </p>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mt30">
+                   <div class="process-content ree-card">
+                      <div class="process-block">
+                         <div class="process-icon">
+                            <img src="{{asset('images/icons/healthcare.svg')}}" alt="service" class="icon70 mb15">
+                         </div>
+                         <h4>Private healthcare</h4>
+                         <p>Savor the advantages of private medical care for you and your loved ones.</p>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mt30">
+                   <div class="process-content ree-card">
+                      <div class="process-block">
+                         <div class="process-icon">
+                            <img src="{{asset('images/icons/presentation.svg')}}" alt="service" class="icon70 mb15">
+                         </div>
+                         <h4>Internal workshops</h4>
+                         <p>Take advantage of internal workshops to reach your full potential.</p>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mt30">
+                   <div class="process-content ree-card">
+                      <div class="process-block">
+                         <div class="process-icon">
+                            <img src="{{asset('images/icons/sunglasses.svg')}}" alt="service" class="icon70 mb15">
+                         </div>
+                         <h4>Additional accessories</h4>
+                         <p>Check out our assortment of matching accessories right now.</p>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mt30">
+                   <div class="process-content ree-card">
+                      <div class="process-block">
+                         <div class="process-icon">
+                            <img src="{{asset('images/icons/paid-content.svg')}}" alt="service" class="icon70 mb15">
+                         </div>
+                         <h4>Books & paid content</h4>
+                         <p>Discover more with our carefully chosen collection of paid content. </p>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mt30">
+                   <div class="process-content ree-card">
+                      <div class="process-block">
+                         <div class="process-icon">
+                            <img src="{{asset('images/icons/office-table.svg')}}" alt="service" class="icon70 mb15">
+                         </div>
+                         <h4>World class infrastructure</h4>
+                         <p>With our top-notch infrastructure solutions, enjoy excellence. </p>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mt30">
+                   <div class="process-content ree-card">
+                      <div class="process-block">
+                         <div class="process-icon">
+                            <img src="{{asset('images/icons/group.svg')}}" alt="service" class="icon70 mb15">
+                         </div>
+                         <h4>Community Meetups</h4>
+                         <p>Meet people who share your interests at our community gatherings. </p>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mt30">
+                   <div class="process-content ree-card">
+                      <div class="process-block">
+                         <div class="process-icon">
+                            <img src="{{asset('images/icons/consulting.svg')}}" alt="service" class="icon70 mb15">
+                         </div>
+                         <h4>Training and Mentorship</h4>
+                         <p>Mentoring and training encourage development. <br><br></p>
+                      </div>
+                   </div>
+                </div>
+             </div>
         </div>
     </section>
     <!--career benefits end-->
@@ -348,7 +438,7 @@
                         </div>
                         <div class="job-titl mt40">
                             <p>2 days Ago</p>
-                            <a href="#" class="ree-btn  ree-btn-grdt2">Apply Now <i class="fas fa-arrow-right fa-btn"></i></a>
+                            <a href="/quacklabs/join-team" class="ree-btn  ree-btn-grdt2">Apply Now <i class="fas fa-arrow-right fa-btn"></i></a>
                         </div>
                     </div>
                 </div>
@@ -376,7 +466,7 @@
                         </div>
                         <div class="job-titl mt40">
                             <p>3 days Ago</p>
-                            <a href="#" class="ree-btn  ree-btn-grdt2">Apply Now <i class="fas fa-arrow-right fa-btn"></i></a>
+                            <a href="/quacklabs/join-team" class="ree-btn  ree-btn-grdt2">Apply Now <i class="fas fa-arrow-right fa-btn"></i></a>
                         </div>
                     </div>
                 </div>
@@ -405,7 +495,7 @@
                         </div>
                         <div class="job-titl mt40">
                             <p>25 days Ago</p>
-                            <a href="#" class="ree-btn  ree-btn-grdt2">Apply Now <i class="fas fa-arrow-right fa-btn"></i></a>
+                            <a href="/quacklabs/join-team" class="ree-btn  ree-btn-grdt2">Apply Now <i class="fas fa-arrow-right fa-btn"></i></a>
                         </div>
                     </div>
                 </div>
@@ -435,7 +525,7 @@
                         </div>
                         <div class="job-titl mt40">
                             <p>50 days Ago</p>
-                            <a href="#" class="ree-btn  ree-btn-grdt2">Apply Now <i class="fas fa-arrow-right fa-btn"></i></a>
+                            <a href="/quacklabs/join-team" class="ree-btn  ree-btn-grdt2">Apply Now <i class="fas fa-arrow-right fa-btn"></i></a>
                         </div>
                     </div>
                 </div>
@@ -463,7 +553,7 @@
                         </div>
                         <div class="job-titl mt40">
                             <p>51 days Ago</p>
-                            <a href="#" class="ree-btn  ree-btn-grdt2">Apply Now <i class="fas fa-arrow-right fa-btn"></i></a>
+                            <a href="/quacklabs/join-team" class="ree-btn  ree-btn-grdt2">Apply Now <i class="fas fa-arrow-right fa-btn"></i></a>
                         </div>
                     </div>
                 </div>
@@ -490,7 +580,7 @@
                         </div>
                         <div class="job-titl mt40">
                             <p>* days Ago</p>
-                            <a href="#" class="ree-btn  ree-btn-grdt2">View More Jobs <i class="fas fa-arrow-right fa-btn"></i></a>
+                            <a href="/quacklabs/join-team" class="ree-btn  ree-btn-grdt2">View More Jobs <i class="fas fa-arrow-right fa-btn"></i></a>
                         </div>
                     </div>
                 </div>

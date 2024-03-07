@@ -73,8 +73,7 @@
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">
                             Linking to Business Strategy​</h3>
-                        <p>
-                            We will work to understand your company's goals and align your technology to support and work in tandem with them<br><br><br>
+                        <p>We will work to understand your company's goals and align your technology to support and work in tandem with them<br><br><br>
                         </p>
                     </div>
                 </div>
@@ -97,9 +96,9 @@
                         <h3 class="mb15">
                             Governance Model​
                         </h3>
-                        <p class="mb-2">
+                        <p class="mb-0">
 
-                            Our consultants help to create a structure around how your organization ensures that your technology not only works toward meeting your goals but putting into place specific methods of measuring its performance<br><br>
+                            Our consultants help to create a structure around how your organization ensures that your technology not only works toward meeting your goals but putting into place specific methods of measuring its performance
                         </p>
                     </div>
 
@@ -141,9 +140,9 @@
                         <h3 class="mb15">
                             Change Process Management​
                         </h3>
-                        <p class="mb-0">
+                        <p class="mb-2">
 
-                            We can help your organization proactively manage technology upgrades and changes to ensure efficient rollouts with minimal losses of productivity.
+                            We can help your organization proactively manage technology upgrades and changes to ensure efficient rollouts with minimal losses of productivity. <br> <br>
 
                         </p>
                     </div>
@@ -210,8 +209,8 @@
                         <div class="process-icon">
                             <img src="{{asset('images/icons/shopping.png')}}" alt="service" class="icon70 mb20">
                         </div>
-                        <h4> Foresight Into Future Initiatives and Purchases </h4>
-                        <p> Leverage a roadmap of planned expenses up to five years into the future</p>
+                        <h4> Anticipate Future Investments and Plans </h4>
+                        <p>Harness a roadmap detailing expenses for the next five years</p>
                     </div>
                 </div>
             </div>
@@ -223,7 +222,7 @@
                             <img src="{{asset('images/icons/teamwork.png')}}" alt="service" class="icon70 mb20">
                         </div>
                         <h4> Empower Your Hiring Team </h4>
-                        <p> With staffing forecasts, you’ll know which roles to hire when <br><br></p>
+                        <p> With staffing forecasts, you’ll know which roles to hire when </p>
                     </div>
                 </div>
             </div>
@@ -247,7 +246,7 @@
                             <img src="{{asset('images/icons/reduce.png')}}" alt="service" class="icon70 mb20">
                         </div>
                         <h4> Reduced Risk </h4>
-                        <p class="">By planning out strategic security, disaster recovery, and governance processes you reduce vulnerabilities you may otherwise overlook </p>
+                        <p class="">Strategically plan security, disaster recovery, and governance to mitigate overlooked vulnerabilities</p>
                     </div>
                 </div>
             </div>
@@ -270,7 +269,7 @@
                         <div class="process-icon">
                             <img src="{{asset('images/icons/business.png')}}" alt="service" class="icon70 mb20">
                         </div>
-                        <h4> Business and IT Alignment </h4>
+                        <h4>Business-IT Alignment</h4>
                         <p class="">We ensure your business and IT operations, planning, and leadership are aligned for business success </p>
                     </div>
                 </div>

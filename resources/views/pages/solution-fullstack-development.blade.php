@@ -57,7 +57,7 @@
             </div>
         </div>
 
-        <div class="row mt30">
+        {{-- <div class="row mt30">
             <div class="col-lg-4 col-sm-6">
                 <div class="ree-card  mt60">
                     <div class="ree-card-img"><img src="{{asset('images/react.png')}}" alt="services"> </div>
@@ -118,7 +118,65 @@
 
                 </div>
             </div>
+        </div> --}}
+
+        <div class="row mt30">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card mt60 d-flex flex-column h-100">
+                    <div class="ree-card-img"><img src="{{asset('images/react.png')}}" alt="services"> </div>
+                    <div class="ree-card-content mt40">
+                        <h3 class="mb15">React</h3>
+                        <p>A JavaScript library, React assists in creating top-notch user interfaces. React.js development is widely preferred, as it helps deliver excellent server and client-side rendering.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card mt60 d-flex flex-column h-100">
+                    <div class="ree-card-img"><img src="{{asset('images/angular.png')}}" alt="services"> </div>
+                    <div class="ree-card-content mt40">
+                        <h3 class="mb15">AngularJS</h3>
+                        <p>AngularJS is popular because of the flexibility it brings to all types of web app development. You can develop a browser, as well as mobile and web-based apps, with AngularJS.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card mt60 d-flex flex-column h-100">
+                    <div class="ree-card-img"><img src="{{asset('images/node-js.png')}}" alt="services"> </div>
+                    <div class="ree-card-content mt40">
+                        <h3 class="mb15">Node.js</h3>
+                        <p>Node.js is perhaps the best platform for quickly developing a network of scalable applications. With its cross-browser atmosphere, it is built to serve as a workhorse for developers.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card mt60 d-flex flex-column h-100">
+                    <div class="ree-card-img"><img src="{{asset('images/php.png')}}" alt="services"> </div>
+                    <div class="ree-card-content mt40">
+                        <h3 class="mb15">PHP</h3>
+                        <p>With its simplified programming, PHP development is used to create dynamic web pages. Used for web development, it is a server-side scripting language that builds robust back-end systems.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card mt60 d-flex flex-column h-100">
+                    <div class="ree-card-img"><img src="{{asset('images/java.png')}}" alt="services"> </div>
+                    <div class="ree-card-content mt40">
+                        <h3 class="mb15">Java</h3>
+                        <p>Java can operate on both a single server and multiple servers. It is great for all-round programming, and has far-reaching benefits when combined with a full stack development project.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card mt60 d-flex flex-column h-100">
+                    <div class="ree-card-img"><img src="{{asset('images/python.png')}}" alt="services"> </div>
+                    <div class="ree-card-content mt40">
+                        <h3 class="mb15">Python</h3>
+                        <p class="mb-4">Polymer is a user-friendly JavaScript framework consisting of HTML elements that can be reused and expanded to incorporate a range of features into an application.</p>
+                    </div>
+                </div>
+            </div>
         </div>
+        
     </div>
 </section>
 <!--service expertise end-->
@@ -207,7 +265,7 @@
                         <div class="process-icon">
                             <img src="{{asset('images/icons/computer.svg')}}" alt="service" class="icon70 mb20">
                         </div>
-                        <h4>Comprehensive solution</h4>
+                        <h4>Uniformity</h4>
                         <p>Full stack websites make more of a comprehensive solution, when compared to the websites created generically.</p>
                     </div>
                 </div>

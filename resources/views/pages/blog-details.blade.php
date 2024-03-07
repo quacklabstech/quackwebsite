@@ -10,9 +10,9 @@
 						<ul class="breadcrus mb20">
 							<li class="bread-non"><a href="#">All Blog Posts</a></li>
 							<li>&nbsp;/&nbsp;</li>
-							<li class="bread-active"><a href="#">Marketing</a></li>
+							<li class="bread-active"><a href="#">Mobile Application Development</a></li>
 						</ul>
-						<h1>How to increase your ROI through scientific SEM?</h1>
+						<h1>creating cutting-edge, intuitive applications for flawless mobile experiences.</h1>
 					</div>
 
 				</div>
@@ -25,59 +25,59 @@
 			<div class="blog-details">
 				<div class="row">
 					<div class="col-lg-12">
-						<div class="sol-img mt60"><img src="{{asset('images/blogs/blog-details-1.jpg')}}" alt="blog" class="img-fluid"> </div>
+						<div class="sol-img mt60"><img src="{{asset('images/blogs/mobile app.png')}}" alt="blog" class="img-fluid"> </div>
 						<div class="ree-blog-details">
 							<div class="info-bar">
-								<div class="info-b-left"> <a href="#">#Marketing</a> <a href="#">#Seo</a> </div>
+								<div class="info-b-left"> <a href="">Mobile Application Development</a>  </div>
 								<div class="info-b-right">By <a href="#">John Doe</a> • <span>4 days ago</span> </div>
 							</div>
 
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+							<p>developing state-of-the-art mobile applications that are customized to meet the needs of users and offer outstanding functionality, experiences, and platform- and device-transparent performance.</p>
 
-							<h4>Website – The quickest way to take your business online</h4>
+							<h4>Mobile Application – The quickest way to take your business online</h4>
 
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+							<p>With a mobile application, you may quickly transform your organization, taking advantage of internet opportunities and reaching a global consumer base.</p>
 
 							<ul class="ul-list mb30">
-								<li>A Logical Roadmap</li>
-								<li>Crucial Business Information</li>
-								<li>Social Media Integration</li>
-								<li>A Mobile-Ready Version</li>
-								<li>Heading and tagline or USP</li>
-								<li>Testimonials and social proof</li>
-								<li>Optimise website speed and performance</li>
-								<li>Contact Information and Clear Navigation</li>
-								<li>Ability to easily update title tag and meta description</li>
+								<li>Instant Accessibility</li>
+								<li>Enhanced Visibility</li>
+								<li>Streamlined Operations</li>
+								<li>Personalized Experience</li>
+								<li>Global Reach</li>
+								<li>Real-time Updates</li>
+								<li>Improved Engagement</li>
+								<li>Competitive Advantage</li>
+								<li>Analytics Insights</li>
 							</ul>
 
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+							<p>Mobile apps improve productivity, accessibility, and engagement in the digital era.</p>
 
-							<div class="sol-img mt45 mb10"> <img src="{{asset('images/blogs/blog-details-2.jpg')}}" alt="blog" class="img-fluid"> </div>
+							<div class="sol-img mt45 mb10"> <img src="{{asset('images/blogs/mobile2.png')}}" alt="blog" class="img-fluid"> </div>
 
-							<p class="small text-center pb25"> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-
-
-							<h4>Preparing for the perfect brand strategy.</h4>
-
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-
-							<h6>1. The most downloaded graphic resource</h6>
-
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-
-							<h6>2. The most downloaded graphic resource</h6>
-
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-
-							<h6>3. The most downloaded graphic resource</h6>
-
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+							<p class="small text-center pb25">Interfaces, development, design, functionality, compatibility, performance, user-friendliness, and integration of smartphones and tablets.</p>
 
 
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+							<h4>Mobile Applications' Effects on Daily Life</h4>
+
+							<p>Mobile applications have improved connectivity and streamlined daily routines, revolutionizing living.</p>
+
+							<h6>1. Accessibility</h6>
+
+							<p>Users' convenience is increased via mobile apps, which offer quick access to services and information anywhere, at any time.</p>
+
+							<h6>2.Participation</h6>
+
+							<p>With features like push alerts, social sharing, and personalized experiences, apps encourage communication and participation.</p>
+
+							<h6>3. Creativity</h6>
+
+							<p>Through constant evolution to suit user needs and integration of new technologies for increased usefulness, mobile apps foster innovation.</p>
 
 
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+							<p>Mobile app development is at the vanguard of innovation in today's tech-driven world. Our blog covers everything from backend infrastructure to UI/UX design, examining the most recent methods, tools, and trends influencing this ever-evolving field. Our informative articles cover everything from monetization tactics to best practices in coding, whether you're a novice or an experienced developer. Come explore the exciting field of mobile app development with us, where technology and creativity combine to produce engaging online experiences for users all over the world.</p>
+
+
+							
 
 						</div>
 

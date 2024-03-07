@@ -54,17 +54,17 @@
         </div>
 
         <div class="row mt30">
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card h-100  mt60">
                     <div class="ree-card-img"><img src="{{asset('images/icons/key.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
-                        <h3 class="mb15">Keyword Research & Strategy </h3>
-                        <p>Thrive is an SEO company that understands your niche and can boost your ranking for specific search terms. Your SEO specialist will review the keywords your website is currently ranking for, take your keyword wishlist and conduct additional keyword research to build a list that makes the most sense for your website and the competitive landscape.</p>
+                        <h3 class="mb15">Keyword Planning </h3>
+                        <p>Thrive, an SEO company, enhances your website's ranking by understanding your niche and conducting detailed keyword research. We analyze your current keywords, consider your wishlist, and evaluate the competitive landscape to optimize your online presence and drive better results.<br><br><br><br></p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card h-100  mt60">
                     <div class="ree-card-img"><img src="{{asset('images/icons/broken-link.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Link Building</h3>
@@ -73,12 +73,12 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card h-100 mt60">
                     <div class="ree-card-img"><img src="{{asset('images/icons/seo.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Technical SEO </h3>
-                        <p class="mb-2">Rankings can improve with optimizations on your website’s back-end, such as improving page speed. By fixing these errors, it makes it easier on search engines when they crawl your website. And when you make search engines happy, your rankings can make you even happier!<br><br><br><br></p>
+                        <p class="mb-2">Rankings can improve with optimizations on your website’s back-end, such as improving page speed. By fixing these errors, it makes it easier on search engines when they crawl your website. And when you make search engines happy, your rankings can make you even happier! <br><br><br></p>
                     </div>
 
                 </div>
@@ -88,7 +88,7 @@
                     <div class="ree-card-img"><img src="{{asset('images/icons/on-page-seo.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">On-Page SEO</h3>
-                        <p>Enhance your online visibility and earn high-quality traffic. At Thrive, we ensure our SEO services are aligned with search engines’ best practices to boost your website’s trustworthiness. Our SEO experts publish unique, value-rich content, optimize your headlines and HTML tags and utilize high-resolution images.<br><br></p>
+                        <p>Enhance your online visibility and earn high-quality traffic. At Thrive, we ensure our SEO services are aligned with search engines’ best practices to boost your website’s trustworthiness. Our SEO experts publish unique, value-rich content, optimize your headlines and HTML tags and utilize high-resolution images.<br></p>
                     </div>
 
                 </div>
@@ -150,8 +150,8 @@
             </div>
         </div>
         <div class="row justify-content-center mt30">
-            <div class="col-lg-4 col-md-4 col-sm-6 mt30">
-                <div class="process-content ree-card">
+            <div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex ">
+                <div class="process-content ree-card d-flex flex-column">
                     <span class="setps hst-1">01</span>
                     <div class="process-block">
                         <div class="process-icon">
@@ -162,8 +162,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 mt30">
-                <div class="process-content ree-card">
+            <div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex">
+                <div class="process-content ree-card d-flex flex-column">
                     <span class="setps hst-2">02</span>
                     <div class="process-block ">
                         <div class="process-icon">
@@ -174,20 +174,20 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 mt30 ">
-                <div class="process-content ree-card">
+            <div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex">
+                <div class="process-content ree-card d-flex flex-column">
                     <span class="setps hst-3">03</span>
                     <div class="process-block">
                         <div class="process-icon">
                             <img src="{{asset('images/icons/contract.png')}}" alt="service" class="icon70 mb20">
                         </div>
                         <h4>Relationships & Results</h4>
-                        <p>We live by our two primary core values: Relationships and Results. We’re here for every client, that’s our pillar. We have SEO experts who specialize in helping businesses of all sizes -- from small businesses to large, national franchises -- achieve exponential growth. Our search engine optimization company believes in owning the voice of our clients and we work hard every day to prove it.<br></p>
+                        <p>We live by our two primary core values: Relationships and Results. We’re here for every client, that’s our pillar. We have SEO experts who specialize in helping businesses of all sizes -- from small businesses to large, national franchises -- achieve exponential growth. Our search engine optimization company believes in owning the voice of our clients and we work hard every day to prove it. <br></p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 mt30">
-                <div class="process-content ree-card">
+            <div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex">
+                <div class="process-content ree-card d-flex flex-column">
                     <span class="setps hst-4">04</span>
                     <div class="process-block">
                         <div class="process-icon">
@@ -198,8 +198,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 mt30">
-                <div class="process-content ree-card">
+            <div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex">
+                <div class="process-content ree-card d-flex flex-column">
                     <span class="setps hst-4">05</span>
                     <div class="process-block">
                         <div class="process-icon">
@@ -210,8 +210,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 mt30">
-                <div class="process-content ree-card">
+            <div class="col-lg-4 col-md-4 col-sm-6 mt30 d-flex">
+                <div class="process-content ree-card d-flex flex-column">
                     <span class="setps hst-4">06</span>
                     <div class="process-block">
                         <div class="process-icon">

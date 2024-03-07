@@ -74,7 +74,7 @@
                         <div class="ree-card-img"><img src="{{asset('./images/icons/online-learning.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Learning new skills every day</h3>
-                            <p class="mb-2">you will have the opportunity to learn and contribute to the development of web applications using the React JavaScript library. You will work with a team of experienced developers to create and maintain React applications.</p><br>
+                            <p class="mb-0">you will have the opportunity to learn and contribute to the development of web applications using the React JavaScript library. You will work with a team of experienced developers to create and maintain React applications.</p>
                         </div>
                     </div>
                 </div>

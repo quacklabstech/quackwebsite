@@ -72,8 +72,8 @@
             </div>
 
             <div class="row mt30">
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/high-value.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Appeal to High-Intent Prospects</h3>
@@ -82,8 +82,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/business.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Generate Positive Business Reviews </h3>
@@ -92,8 +92,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/grow.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Increase Your Customer Lifetime Value (CLV) and Loyalty </h3>
@@ -102,8 +102,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-6 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-6 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/salary.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Improve Your Bottom Line </h3>
@@ -112,8 +112,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-6 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-6 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/seo.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Boost Your SEO Efforts </h3>
@@ -171,19 +171,19 @@
             </div>
             <div class="row justify-content-center mt30">
                 <div class="col-lg-6 col-md-6 col-sm-12 mt30">
-                    <div class="process-content ree-card">
+                    <div class="process-content ree-card h-100">
                         <span class="setps hst-1">01</span>
                         <div class="process-block">
                             <div class="process-icon">
                                 <img src="{{asset('images/icons/dashboard.png')}}" alt="service" class="icon70 mb20">
                             </div>
                             <h4>Reputation Management Software</h4>
-                            <p class="mb-4">Does your current online reputation monitoring system take too much of your time and effort? Our reputation management firm has got you covered! We use state-of-the-art reputation management software to facilitate your reputation management online and streamline your review marketing efforts. Our review software supports localized SMS and email campaigns at any scale, regular online reputation monitoring and social media reputation management across multiple locations. </p>
+                            <p class="mb-4">Does your current online reputation monitoring system take too much of your time and effort? Our reputation management firm has got you covered! We use state-of-the-art reputation management software to facilitate your reputation management online and streamline your review marketing efforts. Our review software supports localized SMS and email campaigns at any scale, regular online reputation monitoring and social media reputation management across multiple locations.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 mt30">
-                    <div class="process-content ree-card">
+                    <div class="process-content ree-card h-100">
                         <span class="setps hst-2">02</span>
                         <div class="process-block ">
                             <div class="process-icon">

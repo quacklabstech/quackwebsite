@@ -9,7 +9,7 @@
 						<span class="sub-heading mb15" data-aos="fade-in" data-aos-delay="200"><i class="fas fa-briefcase mr5"></i> Quality Work</span>
 						<h1 class="mb15" data-aos="fade-in" data-aos-delay="400">Experience with cutting-edge <span class="ree-text rt40">e-commerce</span> apps</h1>
 						<p class="h-light" data-aos="fade-in" data-aos-delay="600">We Have Built High Impact Solutions Across Industries.</p>
-						<a href="/get-quote" class="ree-btn  ree-btn-grdt1 mt40" data-aos="fade-in" data-aos-delay="800">Get Quote <i class="fas fa-arrow-right fa-btn"></i></a>
+						<a href="/contact-us" class="ree-btn  ree-btn-grdt1 mt40" data-aos="fade-in" data-aos-delay="800">Contact Us <i class="fas fa-arrow-right fa-btn"></i></a>
 					</div>
 				</div>
 				<div class="col-lg-5">
@@ -93,7 +93,7 @@
 			<div class="portfolio-items mt60">
 				<!-- portfolio row 1 -->
 				<div class="row">
-					<div class="col-lg-7 m-order1" data-aos="fade-up" data-aos-delay="200">
+					<div class="col-lg-7 m-order1 mt-5" data-aos="fade-up" data-aos-delay="200">
 						<div class="hovr-scale-main">
 							<div class="portfolio-flimg hovr-scale-base">
 								<a href="#"> <img src="{{asset('images/portfolio/ecom-portfoilo1.jpg')}}" alt="portfolio" class="img-fluid"> </a>
@@ -122,7 +122,7 @@
 
 						</div>
 					</div>
-					<div class="col-lg-7 m-order1" data-aos="fade-up" data-aos-delay="600">
+					<div class="col-lg-7 m-order1 mt-5" data-aos="fade-up" data-aos-delay="600">
 						<div class="hovr-scale-main">
 							<div class="portfolio-flimg hovr-scale-base">
 								<a href="#"> <img src="{{asset('images/portfolio/app-portfolio2.jpg')}}" alt="portfolio" class="img-fluid"> </a>
@@ -132,7 +132,7 @@
 				</div>
 				<!-- portfolio row 3 -->
 				<div class="row">
-					<div class="col-lg-7 m-order1" data-aos="fade-up" data-aos-delay="200">
+					<div class="col-lg-7 m-order1 mt-5" data-aos="fade-up" data-aos-delay="200">
 						<div class="hovr-scale-main">
 							<div class="portfolio-flimg hovr-scale-base">
 								<a href="#"> <img src="{{asset('images/portfolio/app-portfolio3.jpg')}}" alt="portfolio" class="img-fluid"> </a>
@@ -159,7 +159,7 @@
 
 						</div>
 					</div>
-					<div class="col-lg-7 m-order1" data-aos="fade-up" data-aos-delay="600">
+					<div class="col-lg-7 m-order1 mt-5" data-aos="fade-up" data-aos-delay="600">
 						<div class="hovr-scale-main">
 							<div class="portfolio-flimg hovr-scale-base">
 								<a href="#"> <img src="{{asset('images/portfolio/app-portfolio4.jpg')}}" alt="portfolio" class="img-fluid"> </a>
@@ -186,7 +186,7 @@
 								<span class="ree-text rt40">Project</span>
 							</h2>
 							<p>We have a dexterity team of designers & developers that works on clients projects excellently and delivers the project on timeline.</p>
-							<a href="/get-quote" class="ree-btn  ree-btn-grdt1 mw-80 mt40">Start Your Project <i class="fas fa-arrow-right fa-btn"></i></a>
+							<a href="/contact-us" class="ree-btn  ree-btn-grdt1 mw-80 mt40">Start Your Project <i class="fas fa-arrow-right fa-btn"></i></a>
 						</div>
 					</div>
 					<div class="col-lg-6 vcenter">

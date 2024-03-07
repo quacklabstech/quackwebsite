@@ -55,8 +55,8 @@
             </div>
 
             <div class="row mt30">
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/google-analytics.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Google Analytics</h3>
@@ -65,8 +65,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/web-app.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Custom Web Analytics Software </h3>
@@ -75,8 +75,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/report.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Campaign Analytics</h3>
@@ -85,8 +85,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/click.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Clickstream Analytics</h3>
@@ -95,8 +95,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/analysis.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Real Estate Data Visualization</h3>
@@ -105,8 +105,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/workforce.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Workforce Analytics</h3>
@@ -310,7 +310,7 @@
                     </div>
                     <div class="col-lg-6 vcenter text-center">
                         <div class="sol-img-png">
-                            <img src="images/cta/team-support.svg" alt="working with client" class="img-fluid">
+                            <img src="{{asset('images/cta/team-support.svg')}}" alt="working with client" class="img-fluid">
                         </div>
                     </div>
                 </div>

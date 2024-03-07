@@ -57,14 +57,14 @@
             <div class="col-lg-7 text-center">
                 <div class="page-headings">
                     <h2>Our Content Writing Services</h2>
-                    <p class="mt15">We are a premium copywriting/ content writing agency with a broad ranged experience</p>
+                    <p class="mt15 mb-2">We are a premium copywriting/ content writing agency with a broad ranged experience</p>
                 </div>
             </div>
         </div>
 
         <div class="row mt30">
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  h-100 mt-60 d-flex flex-column">
                     <div class="ree-card-img"><img src="{{asset('images/icons/writing.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Article Writing</h3>
@@ -73,8 +73,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card h-100 mt-60 d-flex flex-column">
                     <div class="ree-card-img"><img src="{{asset('images/icons/blog.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Blog Writing </h3>
@@ -83,8 +83,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  h-100 mt-60 d-flex flex-column">
                     <div class="ree-card-img"><img src="{{asset('images/icons/seo.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">SEO Content Writing</h3>
@@ -93,8 +93,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  h-100 mt-60 d-flex flex-column">
                     <div class="ree-card-img"><img src="{{asset('images/icons/website.svg')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Website Content Writing</h3>
@@ -103,8 +103,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  h-100 mt-60 d-flex flex-column">
                     <div class="ree-card-img"><img src="{{asset('images/icons/social-media.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Social Media Content</h3>
@@ -113,8 +113,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  h-100 mt-60 d-flex flex-column">
                     <div class="ree-card-img"><img src="{{asset('images/icons/write.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Content Editing</h3>

@@ -65,7 +65,7 @@
 				</div>
 			</div>
 
-			<div class="row mt30">
+			{{-- <div class="row mt30">
 				<div class="col-lg-4 col-sm-6">
 					<div class="ree-card  mt60">
 						<div class="ree-card-img"><img src="{{asset('images/icons/house.png')}}" alt="services"> </div>
@@ -125,7 +125,64 @@
 
 					</div>
 				</div>
+			</div> --}}
+			<div class="row mt30">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card mt60 d-flex flex-column h-100">
+						<div class="ree-card-img"><img src="{{asset('images/icons/house.png')}}" alt="services"> </div>
+						<div class="ree-card-content mt40">
+							<h3 class="mb15">Inventory and Warehouse Management</h3>
+							<p>This module creates data-based reports about non-capitalized stock and assets. It is important to ascertain the health of the supply chain and finance of the balance sheet. This module offers a streamlined workflow, tracks the stock account and minimizes complexities.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card mt60 d-flex flex-column h-100">
+						<div class="ree-card-img"><img src="{{asset('images/icons/hr.png')}}" alt="services"> </div>
+						<div class="ree-card-content mt40">
+							<h3 class="mb15">Human Resource Management</h3>
+							<p>This module automates the core HR operations such as time tracking and profile filtering. It puts an end to time-consuming tasks. It improves the operational efficiency, and the self-service portals streamline the communication and approval process.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card mt60 d-flex flex-column h-100">
+						<div class="ree-card-img"><img src="{{asset('images/icons/customer.png')}}" alt="services"> </div>
+						<div class="ree-card-content mt40">
+							<h3 class="mb15">Customer Relationship Management</h3>
+							<p>This module increases productivity, delivers exceptional customer service, and gives access to business revenue performance.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card mt60 d-flex flex-column h-100">
+						<div class="ree-card-img"><img src="{{asset('images/icons/market.png')}}" alt="services"> </div>
+						<div class="ree-card-content mt40">
+							<h3 class="mb15">Purchase Management</h3>
+							<p>This module optimizes inventory and supply chain overheads and keeps the operational efficiencies as high as possible. There is improved accuracy of predictions and insightful reports.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card mt60 d-flex flex-column h-100">
+						<div class="ree-card-img"><img src="{{asset('images/icons/budget.png')}}" alt="services"> </div>
+						<div class="ree-card-content mt40">
+							<h3 class="mb15">Finance Management</h3>
+							<p>This module helps boost business productivity and helps you to stay organized. It automates financial transactions and keeps track of the profit.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card mt60 d-flex flex-column h-100">
+						<div class="ree-card-img"><img src="{{asset('images/icons/cart.png')}}" alt="services"> </div>
+						<div class="ree-card-content mt40">
+							<h3 class="mb15">E-commerce</h3>
+							<p>This module increases productivity and serves the customers in the best possible way. It gives instant access to business revenue and sales forecast.</p>
+						</div>
+					</div>
+				</div>
 			</div>
+			
 		</div>
 	</section>
 	<!--service expertise end-->
@@ -170,7 +227,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row justify-content-center mt30">
+			{{-- <div class="row justify-content-center mt30">
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
 					<div class="process-content ree-card">
 						<span class="setps hst-1">01</span>
@@ -246,7 +303,82 @@
 				</div>
 
 
+			</div> --}}
+			<div class="row justify-content-center mt30">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-1">01</span>
+						<div class="process-block">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/pencil.svg')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>Efficiency</h4>
+							<p>With our ERP development company you can eliminate repetitive processes. ERP helps in reducing the requirement to manually enter data. This way the system streamlines business processes making it easier to collect data.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-2">02</span>
+						<div class="process-block ">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/creativity.svg')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>Customer Service</h4>
+							<p>When you reach us for ERP application development we provide a system that helps you enjoy high-quality customer service, lot easier for sales and customer service people to interact with customers.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30 ">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-3">03</span>
+						<div class="process-block">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/prototype.svg')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>Integrated Information</h4>
+							<p>With our ERP applications you don’t require to distribute data throughout numerous separate databases and you will find all the information located in a single location. This way the data is consistent as well as up-to-date.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-4">04</span>
+						<div class="process-block">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/computer.svg')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>Security</h4>
+							<p>With a new system you get better accuracy and data security, improving the restrictions to data. Enterprise software development process includes software testing and quality assurance to ensure data privacy.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-5">05</span>
+						<div class="process-block">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/quality-check.svg')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>Reporting</h4>
+							<p>With enhanced reporting capabilities it’s easy for your company to respond to intricate data requests a lot easily. ERP software developers ensure users are allowed to execute their own reports sans the need to rely on help from IT.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-6">06</span>
+						<div class="process-block">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/start-up.svg')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>Reduced Operating Costs</h4>
+							<p>Yes, reduced operating cost is among the most immediate benefits of implementing an ERP, such as lower inventory control costs, lower production costs and lower advertising & marketing costs.</p>
+						</div>
+					</div>
+				</div>
 			</div>
+			
 		</div>
 	</section>
 	<!---our work flow end-->

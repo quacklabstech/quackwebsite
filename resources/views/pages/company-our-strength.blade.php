@@ -39,7 +39,7 @@
 	<section class="r-bg-a sec-pad">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-4">
+				<div class="col-lg-4 mt-5">
 					<div class="sol-img m-mt30">
 						<img src="{{asset('images/our-strangth.png')}}" alt="Quacklabs office" class="img-fluid">
 					</div>
@@ -57,72 +57,63 @@
 				<div class="col-lg-4 mt30">
 					<div class="pera-block ">
 						<h4>Innovation</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>Our IT services and consulting business is built on innovation, which motivates us to continuously push limits, investigate novel avenues, and provide quality in all of our projects and services.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 mt30">
 					<div class="pera-block ">
 						<h4>Creativity</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>Our IT services and consulting business is powered by creativity, which inspires creative ideas and propels success in a dynamic, constantly changing industry landscape.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 mt30">
 					<div class="pera-block ">
 						<h4>Commitment.</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>Our IT services and consulting business is defined by commitment; it is the foundation of our excellence, integrity, and steadfast commitment to the success of our clients.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 mt30">
 					<div class="pera-block ">
 						<h4>Efficiency.</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>Our IT services and consulting business places a high value on efficiency since it guarantees our clients' outstanding results, streamlined operations, and best use of available resources.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 mt30">
 					<div class="pera-block ">
 						<h4>Passion.</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>Our company provides IT services and advice, and is driven by passion that ignites creativity, fuels innovation, and fosters a dedication to exceeding customer expectations.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 mt30">
 					<div class="pera-block ">
 						<h4>Respect for all.</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>A fundamental tenet of our IT services and consulting business is respect for everyone, which promotes an inclusive, encouraging, and cooperative work atmosphere.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 mt30">
 					<div class="pera-block ">
 						<h4>Teamwork.</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>Our IT services and consultancy business is built on teamwork, which promotes cooperation, synergy, and group achievement in reaching our objectives.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 mt30">
 					<div class="pera-block ">
 						<h4>Patriotism.</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>Although a company that provides IT services and consulting may not be particularly interested in patriotism, cultivating a sense of pride and devotion to the organization's goals and principles can support a positive team environment.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 mt30">
 					<div class="pera-block ">
 						<h4>Customer is King.</h4>
-						<p>We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
-						<p>Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.</p>
+						<p>The motto "Customer is King" sums up our corporate culture at our IT services and consulting firm, motivating us to go above and beyond for our clients.</p>
 					</div>
 				</div>
 			</div>

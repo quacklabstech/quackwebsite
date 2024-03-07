@@ -44,7 +44,7 @@
 	<section class="r-bg-a sec-pad">
 		<div class="container">
 			<div class="row ">
-				<div class="col-lg-4">
+				<div class="col-lg-4 mt-5">
 					<div class="sol-img m-mt30">
 						<img src="{{asset('images/others/team-business.jpg')}}" alt="reevan office" class="img-fluid">
 					</div>

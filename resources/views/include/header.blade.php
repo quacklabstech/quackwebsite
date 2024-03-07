@@ -3,7 +3,7 @@
   <div class="container m-p-l-r-0">
     <div class="menu-header horzontl">
       <div class="menu-logo">
-        <div class="dskt-logo"><a class="nav-brand" href="/"> <img src="{{asset('images/logo.png')}}" alt="desktop-logo" title="Desktop Logo" class="ree-logo" /> </a> </div>
+        <div class="dskt-logo"><a class="nav-brand" href="/"><img src="{{asset('images/logo.png')}}" alt="desktop-logo" title="Desktop Logo" class="ree-logo" /></a> </div>
       </div>
       <div class="ree-nav" role="navigation">
         <ul class="nav-list">
@@ -17,7 +17,7 @@
                     <div class="mega-menu-blocks">
                       <p class="mb10">Our ready to implement products</p>
                       <p class="mega-menu-sub">Get quick solution with our pre-built applications</p>
-                      <a href="#" class="ree-btn ree-btn0 ree-btn-grdt2 mt30"> Request a Quote <i class="fas fa-arrow-right fa-btn"></i></a>
+                      <a href="/contact-us" class="ree-btn ree-btn0 ree-btn-grdt2 mt30"> Request a Quote <i class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                     <div class="mega-menu-blocks">
                       <div class="menu-inner-block-a">
@@ -37,7 +37,7 @@
                             <li><a href="#">Inventory Management</a></li>
                             <li><a href="#">Billing Management</a></li>
                             <li><a href="#">Point of Sale System (POS)</a></li>
-                            <li><a href="#">Multistore eCommerce</a></li>
+                            <li><a href="#">Multistore Ecommerce</a></li>
                             <li><a href="#">Queue Management System</a></li>
                           </ul>
                         </div>
@@ -63,13 +63,13 @@
                     <ul>
                       <li>
                         <div class="menu-icon-ree">
-                          <div class="webiocon"> <i class="far fa-envelope"></i> </div>
+                          <div class="webiocon"><i class="far fa-envelope"></i> </div>
                         </div>
                         <a href="mailto:info@quacklabs.in"><span class="__cf_email__" data-cfemail="">info@quacklabs.in</span></a>
                       </li>
                       <li>
                         <div class="menu-icon-ree">
-                          <div class="webiocon"> <i class="fas fa-phone-alt"></i> </div>
+                          <div class="webiocon"><i class="fas fa-phone-alt"></i> </div>
                         </div>
                         <a href="tel:+919861556688">+91-9861556688</a>
                       </li>
@@ -109,7 +109,7 @@
                       <ul class="menu-li-link">
                         <li><a href="/solutions/app-development/web-app-development">Web App Development</a></li>
                         <li><a href="/solutions/app-development/mobile-app-development">Mobile App Development</a></li>
-                        <li><a href="/solutions/app-development/eCommerce-development">eCommerce Development</a></li>
+                        <li><a href="/solutions/app-development/eCommerce-development">Ecommerce Development</a></li>
                         <li><a href="/solutions/app-development/integrated-command-center">Integrated Command Center</a></li>
                         <li><a href="/solutions/app-development/erp-development">ERP Development</a></li>
                         <li><a href="/solutions/app-development/full-stack-development">Full Stack Development</a></li>
@@ -118,7 +118,7 @@
                       <br>
 
                       <p class="mega-menu-sub">Your One-Stop Technology Partner</p >
-                      <a href="#" class="ree-btn ree-btn0 ree-btn-grdt2 mt30"> Request a Quote <i class="fas fa-arrow-right fa-btn"></i></a>
+                      <a href="/contact-us" class="ree-btn ree-btn0 ree-btn-grdt2 mt30"> Request a Quote <i class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                     <div class="mega-menu-blocks">
                       <div class="menu-inner-block-a">
@@ -195,7 +195,7 @@
                           </ul>
 
                           <br>
-                          <label class="menu-headings">&nbsp;</label>
+                          <label class="menu-headings">&nbsp;Products</label>
                           <ul class="menu-li-link">
 
                             <li><a href="/solutions/product/stock-and-pos">Stock & POS</a></li>
@@ -260,7 +260,7 @@
                     <div class="mega-menu-blocks">
                       <p class="mega-menu-sub">India's Leading IT Company of 2022</p>
                       <p class="mb10 mt20">Quacklabs is a technology company dedicated to providing innovative solutions to the challenges facing our modern world. Our team of experts is constantly pushing the boundaries of what is possible.</p>
-                      <a href="#" class="ree-btn ree-btn0 ree-btn-grdt2 mt20"> Request a Quote <i class="fas fa-arrow-right fa-btn"></i></a>
+                      <a href="/contact-us" class="ree-btn ree-btn0 ree-btn-grdt2 mt20"> Request a Quote <i class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                     <div class="mega-menu-blocks">
                       <div class="menu-inner-block-a">
@@ -295,7 +295,7 @@
                           <ul class="menu-li-link">
                             <li><a href="/company/portfolio/ui-and-ux-designs">UI & UX Designs</a></li>
                             <li><a href="/company/portfolio/application-development">Application Development</a></li>
-                            <li><a href="/company/portfolio/ecommerce-development">eCommerce Development</a></li>
+                            <li><a href="/company/portfolio/ecommerce-development">Ecommerce Development</a></li>
                             <li><a href="/company/portfolio/digital-marketing">Digital Marketing</a></li>
                             <li><a href="/company/portfolio/testimonials">Testimonials</a></li>
 
@@ -309,7 +309,7 @@
                             <li><a href="#">Web & Mobile Applications</a></li>
                             <li><a href="#">Online Business Promotion</a></li>
                             <li><a href="#">Web Hosting in 2022</a></li>
-                            <li><a href="#">All about eCommerce</a></li>
+                            <li><a href="#">All about Ecommerce</a></li>
                             <li><a href="#">Website Management</a></li>
                           </ul>
                         </div>
@@ -363,7 +363,7 @@
 
         </ul>
       </div>
-      <div class="" style="display:block">
+      {{-- <div class="" style="display:block">
         <ul class="mob-nav2">
           <li style="padding-right:10px"><a href="/get-quote" class="ree-btn2 ree-btn-grdt1"><i class="fas fa-envelope-open-text"></i></a></li>
           <!-- <li class="navm-"><a class="toggle" href="#"> <span></span> </a> </li> -->
@@ -380,10 +380,146 @@
             </div>
           </div>
         </ul>
-      </div>
+      </div> --}}
+
+
+      <div class="" style="display:block">
+        <ul class="mob-nav2">
+            <li style="padding-right:10px"><a href="#" id="openModalBtn" class="ree-btn2 ree-btn-grdt1"><i class="fas fa-envelope-open-text"></i></a></li>
+            <div class="d-flex align-items-center">
+                <div class="humburger desktop-humburger" id="desktopHumburger">
+                    <span class="hum-line top-hum"></span>
+                    <span class="hum-line middle-hum"></span>
+                    <span class="hum-line bottom-hum"></span>
+                </div>
+                <div class="humburger mobile-humburger" id="MobileHumburger">
+                    <span class="hum-line top-hum"></span>
+                    <span class="hum-line middle-hum"></span>
+                    <span class="hum-line bottom-hum"></span>
+                </div>
+            </div>
+        </ul>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+              {{-- <div class="modal-header">
+                <button type="button" class="btn-close ms-auto" data-bs-dismiss="modal" aria-label="Close" style="padding: 5px;"  >Close</button>
+
+            </div> --}}
+                <div class="modal-body">
+                
+                    <div class="form-block">
+                        <div class="form-head">
+                            <h3>Please fill in the form below.</h3>
+                        </div>
+                        <div class="form-body">
+                            <form action="#" method="post" name="feedback-form">
+                                <div class="fieldsets row">
+                                    <div class="col-md-6"><input type="text" placeholder="Full Name" name="name"> </div>
+                                    <div class="col-md-6"><input type="email" placeholder="Email Address" name="email"></div>
+                                </div>
+                                <div class="fieldsets row">
+                                    <div class="col-md-6"><input type="number" placeholder="Contact Number" name="phone"></div>
+                                    <div class="col-md-6"><input type="text" placeholder="Skype" name="skype">
+                                    </div>
+                                </div>
+                                <div class="fieldsets row">
+                                    <div class="col-md-6"><input type="text" placeholder="Subject" name="subject">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <select>
+                                            <option>Interested in</option>
+                                            <option>App Development</option>
+                                            <option>UI/UX Design</option>
+                                            <option>Digital Marketing</option>
+                                            <option>E-commerce Development</option>
+                                            <option>Web Services</option>
+                                            <option>IT Consulting</option>
+                                            <option>Resource Augmentation</option>
+                                            <option>Cloud Saas</option>
+                                            <option>Other...</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="fieldsets">
+                                    <textarea placeholder="Message" name="message"></textarea>
+                                </div>
+                                <div class="custom-control custom-checkbox">
+                                    <input type="checkbox" class="custom-control-input" id="customCheck" name="example1" checked="checked">
+                                    <label class="custom-control-label label-f-form" for="customCheck">I agree to
+                                        the <a href="javascript:void(0)">Terms &amp; Conditions</a> of
+                                        Quacklabs.</label>
+                                </div>
+                                <div class="fieldsets mt20"> 
+                                  <button type="button" id="submitForm" class="ree-btn  ree-btn-grdt1 w-100">Send your enquiry <i class="fas fa-arrow-right fa-btn"></i></button>
+                                 </div>
+                               
+                                 <div class="mt-3">
+                                  <button type="button" class="btn-close ree-btn-grdt1 w-100" data-bs-dismiss="modal" aria-label="Close" style="padding: 8px; border-radius:15px"  >Close</button>
+                  
+                              </div>
+                                <p class="trm"><i class="fas fa-lock"></i>We hate spam, and we respect your
+                                    privacy.
+                                </p>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#openModalBtn').click(function() {
+                $('#myModal').modal('show');
+            });
+
+            $('#submitForm').click(function() {
+                var name = $('input[name="name"]').val();
+                var email = $('input[name="email"]').val();
+                var phone = $('input[name="phone"]').val();
+                var message = $('textarea[name="message"]').val();
+                var termsChecked = $('#customCheck').prop('checked');
+
+                if (name == '') {
+                    alert('Please enter your name.');
+                    return;
+                }
+                if (email == '') {
+                    alert('Please enter your email address.');
+                    return;
+                }
+                if (phone == '') {
+                    alert('Please enter your phone number.');
+                    return;
+                }
+                if (message == '') {
+                    alert('Please enter your message.');
+                    return;
+                }
+                if (!termsChecked) {
+                    alert('Please agree to the Terms & Conditions.');
+                    return;
+                }
+
+
+                alert('Form submitted successfully!');
+                $('#myModal').modal('hide');
+            });
+        });
+    </script>
+
+
+
       <!-- desktop-burger menu start-->
       <div class="desktop-burger-menu" id="desktopMenuContainer">
-        <div class="row">
+        <div class="row" >
 
           <div class="col-lg-9 pr-0">
             <div class="right-menu">
@@ -398,7 +534,7 @@
                           <a href="/company/about/introduction">
                             <span class="card-icon"><i class="fas fa-address-card"></i></span>
                             <p class="menu-title">Introduction</p>
-                            <p class="menu-sub-title">Our team is made up of skilled professionals from a wide range of backgrounds, including computer...</p>
+                            <p class="menu-sub-title">Our team is made up of skilled professionals from a wide range of backgrounds, including computer.</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -506,7 +642,7 @@
                           <a href="#">
                             <span class="card-icon"><i class="fas fa-recycle"></i></span>
                             <p class="menu-title">Renewal Management System</p>
-                            <p class="menu-sub-title">What ever the idea or concept you have for your startup or business we can develop anything...</p>
+                            <p class="menu-sub-title">We bring your vision to life through innovative development solutions.</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -515,8 +651,8 @@
                         <div class="card-single">
                           <a href="/contact-us">
                             <span class="card-icon"><i class="fas fa-phone-alt"></i></span>
-                            <p class="menu-title">Contact Us</p>
-                            <p class="menu-sub-title">Our goal is to provide you with a seamless and enjoyable experience, and we are always here to help.</p>
+                            <p class="menu-title">Reach out <br> to us</p>
+                            <p class="menu-sub-title">We're committed to ensuring your seamless, enjoyable experience with us.</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -535,7 +671,7 @@
                           <a href="#">
                             <span class="card-icon"><i class="fas fa-warehouse"></i></span>
                             <p class="menu-title">Inventory Management</p>
-                            <p class="menu-sub-title">In inventory management, the goal is to strike a balance between having enough stock on ...</p>
+                            <p class="menu-sub-title">In inventory management, the goal is to strike a balance between having enough stock on</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -564,7 +700,7 @@
                         <div class="card-single">
                           <a href="#">
                             <span class="card-icon"><i class="fas fa-shopping-cart"></i></span>
-                            <p class="menu-title">Multistore eCommerce</p>
+                            <p class="menu-title">Multistore Ecommerce</p>
                             <p class="menu-sub-title">A multi-store commerce platform is a type of e-commerce system that allows merchants to ...</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
@@ -585,7 +721,7 @@
                           <a href="/contact-us">
                             <span class="card-icon"><i class="fas fa-phone-alt"></i></span>
                             <p class="menu-title">Contact Us</p>
-                            <p class="menu-sub-title">Our goal is to provide you with a seamless and enjoyable experience, and we are always here to help.</p>
+                            <p class="menu-sub-title">We strive for seamless, enjoyable experiences and are here to assist.</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -673,7 +809,7 @@
                           <a href="/solutions/app-development/web-app-development">
                             <span class="card-icon"><i class="fas fa-globe"></i></span>
                             <p class="menu-title">Web App Development</p>
-                            <p class="menu-sub-title">We are a team of skilled website developers who are passionate about creating custom ...</p>
+                            <p class="menu-sub-title">We're skilled developers, passionate about crafting custom websites to fulfill your unique vision and needs.</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -692,8 +828,8 @@
                         <div class="card-single">
                           <a href="/solutions/app-development/eCommerce-development">
                             <span class="card-icon"><i class="fas fa-shopping-basket"></i></span>
-                            <p class="menu-title">eCommerce Development</p>
-                            <p class="menu-sub-title">A leading eCommerce development company, Quacklabs, offers the best eCommerce development services ...</p>
+                            <p class="menu-title">Ecommerce Development</p>
+                            <p class="menu-sub-title">A leading Ecommerce development company, Quacklabs, offers the best Ecommerce development</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -723,7 +859,7 @@
                           <a href="/solutions/app-development/full-stack-development ">
                             <span class="card-icon"><i class="fas fa-window-maximize"></i></span>
                             <p class="menu-title">Full Stack Development</p>
-                            <p class="menu-sub-title">uacklabs Technologies has been helping businesses to fulfill their business needs by mobile app development ...</p>
+                            <p class="menu-sub-title">Quacklabs Technologies has been helping businesses to fulfill their business needs by mobile app development ...</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -955,7 +1091,7 @@
                           <a href="/solutions/it-consulting/enterprise-it-consulting">
                             <span class="card-icon"><i class="fas fa-building"></i></span>
                             <p class="menu-title">Enterprise IT Consulting</p>
-                            <p class="menu-sub-title">Enterprise Consulting involves assisting in the growth of companies by proposing optimized business strategies and ...</p>
+                            <p class="menu-sub-title">Enterprise Consulting involves assisting in the growth of companies by proposing optimized business strategies .</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -995,7 +1131,7 @@
                           <a href="/solutions/it-consulting/governance-risk-compliances">
                             <span class="card-icon"><i class="fas fa-th-list"></i></span>
                             <p class="menu-title">Governance, Risk Compliances</p>
-                            <p class="menu-sub-title">GRC refers to the processes and systems that organizations put in place to manage their operations in an ...</p>
+                            <p class="menu-sub-title">GRC manages operations for efficiency, compliance, and risk mitigation..</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -1032,7 +1168,7 @@
                           <a href="/solutions/resource-augmentation/hire-train-deploy">
                             <span class="card-icon"><i class="fas fa-briefcase"></i></span>
                             <p class="menu-title">Hire, Train & Deploy</p>
-                            <p class="menu-sub-title">Hire-Train-Deploy model is a disruptive training and hiring program. It aims at bridging ...</p>
+                            <p class="menu-sub-title">The Hire-Train-Deploy model disrupts traditional training and hiring, bridging skill gaps to create a talent-rich workforce.</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -1166,8 +1302,8 @@
                         <div class="card-single">
                           <a href="/company/portfolio/ecommerce-development">
                             <span class="card-icon"><i class="fas fa-shopping-cart"></i></span>
-                            <p class="menu-title">eCommerce Development</p>
-                            <p class="menu-sub-title">We provides users with a digital marketplace where they can view and compare products, negotiate</p>
+                            <p class="menu-title">Ecommerce Development</p>
+                            <p class="menu-sub-title">We provide users a digital marketplace to view, compare products, and engage in negotiations for their desired..</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -1226,7 +1362,7 @@
                           <a href="/career/overview">
                             <span class="card-icon"><i class="fas fa-binoculars"></i></span>
                             <p class="menu-title">Overview</p>
-                            <p class="menu-sub-title">QuackLabs believes in being a multidimensional service provider and looks to satisfy every ...</p>
+                            <p class="menu-sub-title">QuackLabs strives to be a multidimensional service provider, committed to satisfying every aspect of our clients'..</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -1333,8 +1469,8 @@
                         <div class="card-single">
                           <a href="#">
                             <span class="card-icon"><i class="fas fa-shopping-cart"></i></span>
-                            <p class="menu-title">All about eCommerce</p>
-                            <p class="menu-sub-title">An ecommerce app is a mobile application that allows users to shop online, typically through a marketplace ...</p>
+                            <p class="menu-title">All about Ecommerce</p>
+                            <p class="menu-sub-title">An Ecommerce app is a mobile application that allows users to shop online, typically through a marketplace ...</p>
                             <button class="menu-btn">Read More <span class="pl-1"><i class="fas fa-arrow-right"></i></span></button>
                           </a>
                         </div>
@@ -1354,7 +1490,79 @@
                   </div>
                 </div>
                 <!-- blog end  -->
+                {{--contact start  --}}
+                <div class="tab-pane fade" id="Contact">
+                  <div class="contact-head-sec r-bg-a  pb50" id="contact">
+                    <div class="container">
+                      <div class="row">
+                        <div class="col-lg-7 vcenter">
+                          <div class="page-headings">
+                            <span class="sub-heading mb15"><i class="fas fa-headset mr5"></i> Let's Talk</span>
+                            <h1 class="mb15">Good talks make good projects</h1>
 
+                
+                          </div>
+                        </div>
+                        <div class="col-lg-10 vcenter">
+                          <div class="row">
+                            <div class="col-lg-6 m-mt10">
+                              <div class="contact-details-block">
+                                <div class="ree-row-set">
+                                  <div class="ree-icon-set dtb-icon"> <i class="fas fa-phone-alt"></i> </div>
+                                  <div class="ree-details-set dtb-details">
+                                    <span>Sales Department</span>
+                                    <a href="tel:+911234567890"> +91 1234567890 </a>
+                                    <a href="tel:+911234567890"> +91 1234567890 </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-6 m-mt10">
+                              <div class="contact-details-block">
+                                <div class="ree-row-set">
+                                  <div class="ree-icon-set dtb-icon"> <i class="fas fa-phone-alt"></i> </div>
+                                  <div class="ree-details-set dtb-details">
+                                    <span>HR Department</span>
+                                    <a href="tel:+911234567890"> +91 1234567890 </a>
+                                    <a href="tel:+911234567890"> +91 1234567890 </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row mt10">
+                            <div class="col-lg-6">
+                              <div class="contact-details-block">
+                                <div class="ree-row-set">
+                                  <div class="ree-icon-set dtb-icon"> <i class="fas fa-envelope"></i> </div>
+                                  <div class="ree-details-set dtb-details">
+                                    <span>Sales Department</span>
+                                    <a href="mailto: sales@quacklabs.co.in"> <span class="">sales@quacklabs.co.in</span> </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-6 m-mt10">
+                              <div class="contact-details-block">
+                                <div class="ree-row-set">
+                                  <div class="ree-icon-set dtb-icon"> <i class="fas fa-envelope"></i> </div>
+                                  <div class="ree-details-set dtb-details">
+                                    <span>HR Department</span>
+                                    <a href="mailto: hr@quacklabs.co.in"> <span class="">hr@quacklabs.co.in</span> </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  
+                  
+                
+                </div>
+                {{-- contact end --}}
 
 
 
@@ -1403,7 +1611,7 @@
                   <li><a href="#blog" data-toggle="pill">Blog<span><i class="fas fa-chevron-right"></i></a></span></li>
                   <!-- blog end  -->
                   <!-- contact  -->
-                  <li><a href="#">Contact Us<span><i class="fas fa-chevron-right"></i></a></span></li>
+                  <li><a href="#Contact" data-toggle="pill">Contact Us<span><i class="fas fa-chevron-right"></i></a></span></li>
                   <!-- contact end  -->
 
                 </ul>
@@ -1430,30 +1638,30 @@
 
                   </div>
                 </div>
-                <div class="footer-contain mb-3">
+                <div class="footer-contain mb-0">
                   <div class="d-flex align-items-center">
-                    <div class="mr-3 icon-menu">
+                    <div class="mr-3 icon-menu mt-4">
                       <i class="fas fa-map-marker-alt"></i>
                     </div>
                     <div>
                       <p>Address</p>
                       <p class="mb-0">IRC Village, Nayapalli, Bhubaneswar</p>
                     </div>
-
                   </div>
                 </div>
+                
                 <div class="footer-contain">
                   <div class="d-flex align-items-center">
-                    <div class="mr-3 icon-menu">
+                    <div class="mr-3 icon-menu mt-4">
                       <i class="fas fa-mobile"></i>
                     </div>
                     <div>
                       <p>Phone</p>
-                      <p class="mb-0">+91 9861556688</p>
+                      <p class="" style="margin-bottom: -3">+91 9861556688</p>
                     </div>
-
                   </div>
                 </div>
+                
                 
               </div>
               <!-- menu footer information end -->
@@ -1505,7 +1713,7 @@
                     </li>
 
                     <li>
-                      <a href="/company/about/future-outlook">Future Outlook</a>
+                      <a href="/company/about/future-out-look">Future Outlook</a>
                     </li>
 
                     <li>
@@ -1565,7 +1773,7 @@
                       </li>
 
                       <li>
-                        <a href="/solutions/app-development/eCommerce-development">eCommerce Development</a>
+                        <a href="/solutions/app-development/eCommerce-development">Ecommerce Development</a>
                       </li>
 
                       <li>
@@ -1861,7 +2069,7 @@
                       </li>
 
                       <li>
-                        <a href="#">Multistore eCommerce</a>
+                        <a href="#">Multistore Ecommerce</a>
                       </li>
 
                       <li>
@@ -1929,7 +2137,7 @@
                 </li>
 
                 <li>
-                  <a href="/company/portfolio/ecommerce-development">eCommerce Development</a>
+                  <a href="/company/portfolio/ecommerce-development">Ecommerce Development</a>
                 </li>
 
                 <li>
@@ -2005,7 +2213,7 @@
                 </li>
 
                 <li>
-                  <a href="#">All about eCommerce</a>
+                  <a href="#">All about Ecommerce</a>
                 </li>
 
                 <li>

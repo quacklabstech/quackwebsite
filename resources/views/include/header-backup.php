@@ -272,7 +272,7 @@
                             <li><a href="milestones.php">Milestones</a></li>
                             <li><a href="mission-vision-value.php">Mission, Vision, Values</a></li>
                             <li><a href="unique-approach.php">Unique Approach</a></li>
-                            <li><a href="future-outlook.php">Future Outlook</a></li>
+                            <li><a href="future-out-look.php">Future Outlook</a></li>
                             <li><a href="awards-and-accreditations.php">Awards & Accreditations</a></li>
                             <li><a href="our-strength.php">Our Strength</a></li>
                             <li><a href="our-team.php">Our Team</a></li>

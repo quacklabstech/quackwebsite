@@ -56,8 +56,8 @@
 			</div>
 
 			<div class="row mt30">
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/salary.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Lead Generation </h3>
@@ -66,8 +66,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/traffic.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Traffic</h3>
@@ -76,8 +76,8 @@
 
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/retargeting.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Engagement</h3>
@@ -154,7 +154,7 @@
 			</div>
 			<div class="row justify-content-center mt30">
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-1">01</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -166,19 +166,19 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-2">02</span>
 						<div class="process-block ">
 							<div class="process-icon">
 								<img src="{{asset('images/icons/magic-wand.png')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Creating Engaging Organic </h4>
-							<p>We begin the campaign by analysing the industry, the competitors, and the target demographic to guarantee that we are distributing the correct information at the right moment, which will not only raise awareness but also engage your target audience. We build the campaign organically and also via the use of network-specific paid features such as banner advertisements and InMails. We design and optimize content that is valuable to your audience and helps you achieve higher levels of engagement. <br></p>
+							<p>We begin the campaign by analysing the industry, the competitors, and the target demographic to guarantee that we are distributing the correct information at the right moment, which will not only raise awareness but also engage your target audience. We build the campaign organically and also via the use of network-specific paid features such as banner advertisements and InMails. We design and optimize content that is valuable to your audience and helps you achieve higher levels of engagement. </p>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30 ">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-3">03</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -190,7 +190,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-4">04</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -202,7 +202,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-4">05</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -214,7 +214,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-4">06</span>
 						<div class="process-block">
 							<div class="process-icon">

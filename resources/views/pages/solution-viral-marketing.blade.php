@@ -60,8 +60,8 @@
             </div>
 
             <div class="row mt30">
-                <div class="col-lg-3 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-3 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/influencer.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">
@@ -70,8 +70,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-3 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/bullhorn.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Campaign Execution</h3>
@@ -80,8 +80,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-3 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/brand.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Brand gets boosted </h3>
@@ -90,8 +90,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-3 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/explosion.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Boom</h3>

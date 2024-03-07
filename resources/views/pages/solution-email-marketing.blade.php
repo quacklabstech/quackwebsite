@@ -58,17 +58,17 @@
 			</div>
 
 			<div class="row mt30">
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/customer.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Build Customer Loyalty</h3>
-							<p class="mb-4">Strong client relationships require regular brand interactions – and routine web email marketing communications with the customer make it possible for any company to generate brand loyalty while driving sales. Additionally, the cost of engaging with and marketing to an existing client using the best email campaigns is six to 12 times less expensive than other marketing channels, such as paid advertising or social media marketing. Targeted email marketing campaigns not only drive more business but also save you money. <br><br><br></p>
+							<p class="mb-4">Strong client relationships require regular brand interactions – and routine web email marketing communications with the customer make it possible for any company to generate brand loyalty while driving sales. Additionally, the cost of engaging with and marketing to an existing client using the best email campaigns is six to 12 times less expensive than other marketing channels, such as paid advertising or social media marketing. Targeted email marketing campaigns not only drive more business but also save you money. <br><br></p>
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/business.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Expand Your Business Reach</h3>
@@ -77,8 +77,8 @@
 
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/people.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Connect With Different Audiences</h3>
@@ -87,18 +87,18 @@
 
 					</div>
 				</div>
-				<div class="col-lg-6 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-6 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/clock.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Save Time and Effort</h3>
-							<p class="mb-3">Email marketing for small business, franchises and multi-location firms is significantly less labor-intensive than traditional marketing. There is no postage to consider or labeling required for each campaign distributed. Targeted email marketing allow you to communicate and engage with your ideal market segments (whether it’s a few hundred or a hundred thousand) in a matter of minutes. If you don’t have the time to learn the ropes of email campaign optimization, the best email marketing companies can assist you. <br><br></p>
+							<p class="mb-3">Email marketing for small business, franchises and multi-location firms is significantly less labor-intensive than traditional marketing. There is no postage to consider or labeling required for each campaign distributed. Targeted email marketing allow you to communicate and engage with your ideal market segments (whether it’s a few hundred or a hundred thousand) in a matter of minutes. If you don’t have the time to learn the ropes of email campaign optimization, the best email marketing companies can assist you. </p>
 						</div>
 
 					</div>
 				</div>
-				<div class="col-lg-6 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-6 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/gmail.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Test Email Campaigns and Drive Strong Results</h3>
@@ -155,7 +155,7 @@
 			</div>
 			<div class="row justify-content-center mt30">
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-1">01</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -167,7 +167,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-2">02</span>
 						<div class="process-block ">
 							<div class="process-icon">
@@ -179,7 +179,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30 ">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-3">03</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -215,7 +215,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-4">06</span>
 						<div class="process-block">
 							<div class="process-icon">

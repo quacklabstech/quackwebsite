@@ -99,7 +99,7 @@
 					<div class="ree-card  mt60">
 						<div class="ree-card-img"><img src="{{asset('images/icons/process.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
-							<h3 class="mb15">Agile Recruitment Process</h3>
+							<h3 class="mb15">Agile Hiring</h3>
 							<p>Our swift and agile recruitment process delivers stunning results, in a short time.<br><br></p>
 						</div>
 
@@ -172,7 +172,7 @@
 								<img src="{{asset('images/icons/pencil.svg')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Evaluation of Needs</h4>
-							<p>We will start by evaluating the exact need for manpower & accordingly create a blueprint of staff augmentation services with a 360-degree view of business objectives.</p>
+							<p>We'll assess the requirements for the workforce, then develop a comprehensive plan for staff augmentation, aligning with business objectives.</p>
 						</div>
 					</div>
 				</div>

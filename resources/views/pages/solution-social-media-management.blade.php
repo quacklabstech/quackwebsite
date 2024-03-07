@@ -78,7 +78,7 @@
 						<div class="ree-card-img"><img src="{{asset('images/icons/instagram.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Instagram Management </h3>
-							<p>About one third of the 1 billion Instagram monthly active users have purchased a product on the visual storytelling app. Adapt social media marketing management on this platform to achieve your sales goals. You can leave the legwork to Thrive, an Instagram management agency with extensive experience in optimizing vanishing and user-generated content. We handle it all, from gallery posts and Instagram stories to interstitial ads.<br><br><br></p>
+							<p>About one third of the 1 billion Instagram monthly active users have purchased a product on the visual storytelling app. Adapt social media marketing management on this platform to achieve your sales goals. You can leave the legwork to Thrive, an Instagram management agency with extensive experience in optimizing vanishing and user-generated content. We handle it all, from gallery posts and Instagram stories to interstitial ads. <br><br><br><br></p>
 						</div>
 
 					</div>
@@ -157,7 +157,7 @@
 							<div class="process-icon">
 								<img src="{{asset('images/icons/bullhorn.png')}}" alt="service" class="icon70 mb20">
 							</div>
-							<h4>Social Media Marketing</h4>
+							<h4>Social Media <br> Marketing</h4>
 							<p>Social platforms let you touch base with your target audience and promote your offerings at digital speed. But there’s a right way to boost your brand visibility and achieve your business goals, and it’s called social media marketing. Our social media management services include this process, which combines market research, strategy-building, consumer engagement and campaign-based social media marketing management. </p>
 						</div>
 					</div>
@@ -186,8 +186,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30 ">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-4">04</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -198,8 +198,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30 ">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-4">05</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -210,14 +210,14 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30 ">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-4">06</span>
 						<div class="process-block">
 							<div class="process-icon">
 								<img src="{{asset('images/icons/love.png')}}" alt="service" class="icon70 mb20">
 							</div>
-							<h4>Social Media Reputation Management</h4>
+							<h4>Social Media Reputation Control</h4>
 							<p>Build a positive brand identity by maintaining goodwill with all stakeholders, responding to reviews and growing your following on social media. Incorporated into our solutions is online reputation management (ORM), which allows you to shape public perception on social platforms. Gain confidence as we gather votes of approval from your customers – a vital component of any business social media management strategy.</p>
 						</div>
 					</div>

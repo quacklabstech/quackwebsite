@@ -2952,6 +2952,18 @@ span.price-title {
     -webkit-box-shadow: 0 19px 40px -10px #ffa880;
     box-shadow: 0 10px 30px -6px #ffa880;
 }
+.webiocon1{
+    padding-top: 10px;
+    text-align: center;
+    background: #fff;
+    color: #692e97;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50px;
+    -webkit-box-shadow: 0 19px 40px -10px #ffa880;
+    box-shadow: 0 10px 30px -6px #ffa880;
+}
 html body .bd-rds {
     border-radius: 14px;
 }

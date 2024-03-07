@@ -118,6 +118,7 @@
 .left-menu {
 	height: 100vh;
 	background-color: #fff;
+	overflow-y: auto;
 }
 
 .menu-title {
@@ -180,17 +181,15 @@
 	font-size: 28px;
 	/* margin-right: 10px; */
 }
-
 .right-menu {
 	/*background: #FFF7F6;
 	*/
-	position: relative;
+	/* position: absolute; */
 	height: 100vh;
 	padding-top: 0px;
+	overflow-y: auto;
 	/* background-image: linear-gradient(90deg, #e2e9f7 0%, #FFF7F6 100%); */
-
 }
-
 /* .right-menu::before{
 	position: absolute;
 	content: '';
@@ -208,18 +207,17 @@
 	right: 0;
 	top: 0;
 	bottom: 0;
+	height: 100vh;
 	background-image: linear-gradient(90deg, #e2e9f7 0%, #FFF7F6 100%);
 	cursor: url('../images/close.png'), auto;
-}
 
+}
 .right-menu .right-menu-box {
 	padding: 65px 30px 73px 30px;
 }
-
 .menu-footer-social {
 	margin-bottom: 45px;
 }
-
 .card-single {
 	position: relative;
 	padding: 25px 20px;
@@ -230,17 +228,14 @@
 	-ms-border-radius: 15px;
 	-o-border-radius: 15px;
 }
-
 .menu-sub-title {
 	font-size: 16px;
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
-
 .mobile-humburger {
 	display: none;
 }
-
 .menu-btn {
 	border: none;
 	outline: none;
@@ -248,11 +243,9 @@
 	background: transparent;
 	color: #692e97;
 }
-
 .menu-btn span {
 	font-size: 13px;
 }
-
 .card-icon {
 	height: 56px;
 	width: 56px;
@@ -269,11 +262,9 @@
 	margin-bottom: 20px;
 	display: block;
 }
-
 .mb-20 {
 	margin-bottom: 30px !important;
 }
-
 /* menu end */
 .ree-card {
 	background: #fff;
@@ -284,21 +275,17 @@
 	padding: 40px 30px;
 	-webkit-box-shadow: 0 10px 15px -2px rgb(82 0 57/8%);
 	box-shadow: 0 10px 15px -2px rgb(82 0 57/8%);
-}
 
 .mb-8 {
 	margin-bottom: 10px !important;
 }
-
 .mb-25 {
 	margin-bottom: 10px !important;
 }
-
 .ul-list-icon li {
 	text-transform: capitalize !important;
 
 }
-
 .review-text p::after {
 	font-family: 'font awesome 5 free';
 	content: "\f10e";

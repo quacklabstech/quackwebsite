@@ -41,8 +41,8 @@
     <section class="r-bg-a sec-pad">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
-                    <div class="sol-img m-mt30">
+                <div class="col-lg-4 mt-5">
+                    <div class="sol-img m-mt40">
                         <img src="{{asset('images/others/team-business2.png')}}" alt="quacklabs" class="img-fluid">
                     </div>
                 </div>
@@ -75,8 +75,8 @@
                 </div>
             </div>
             <div class="row our-team">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-6">
-                    <div class="ree-media-crd">
+                <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-5">
+                    <div class="ree-media-crd h-100">
                         <div class="rpl-img team-img" data-background="{{asset('images/team/akash.png')}}" style="background-image: url(&quot;images/team/akash.png&quot;);">
                             <div class="icons">
                                 <a href="https://www.facebook.com/d.ace.akash.annu/" target="_blank"><i class="fab fa-facebook-f"></i></a>
@@ -89,8 +89,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 col-6">
-                    <div class="ree-media-crd">
+                <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-5">
+                    <div class="ree-media-crd h-100">
                         <div class="rpl-img team-img" data-background="{{asset('images/team/alok.png')}}" style="background-image: url(&quot;images/team/alok.png&quot;);">
                             <div class="icons">
                                 <a href="https://www.linkedin.com/pulse/finally-completed-my-portfolio-alok-kumar-gochhayat?trk=public_profile_article_view" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -103,8 +103,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 col-6">
-                    <div class="ree-media-crd">
+                <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-5">
+                    <div class="ree-media-crd h-100">
                         <div class="rpl-img team-img" data-background="{{asset('images/team/sarit.png')}}" style="background-image: url(&quot;images/team/sarit.png&quot;);">
                             <div class="icons">
 
@@ -121,8 +121,8 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 col-sm-6 col-6">
-                    <div class="ree-media-crd">
+                <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-5">
+                    <div class="ree-media-crd h-100">
                         <div class="rpl-img team-img" data-background="{{asset('images/team/dipti.png')}}" style="background-image: url(&quot;images/team/dipti.png&quot;);">
                             <div class="icons">
                                 <a href="https://twitter.com/Shrijatinranjan/" target="_blank"><i class="fab fa-twitter"></i></a>

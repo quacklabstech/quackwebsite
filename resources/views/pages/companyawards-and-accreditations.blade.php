@@ -57,8 +57,7 @@
                                 </div>
                                 <div class="ic-cont">
                                     <h4>Platinum Winner design award</h4>
-                                    <p class="mt15">Lipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. </p>
+                                    <p class="mt15">We are ecstatic to have been awarded the Platinum Winner design award, which validates the commitment to design quality made by our consultation and services organization.</p>
                                 </div>
                             </div>
                         </div>
@@ -68,8 +67,7 @@
                                 </div>
                                 <div class="ic-cont">
                                     <h4>Great design award 2021</h4>
-                                    <p class="mt15">Lipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. </p>
+                                    <p class="mt15">In 2021, our company was honored with the esteemed Great Design Award, which demonstrated our dedication to excellence and innovation in design.</p>
                                 </div>
                             </div>
                         </div>
@@ -78,9 +76,8 @@
                                 <div class="ic-img mb20"> <img src="{{asset('images/icons/designrush01.png')}}" alt="Award Quacklabs">
                                 </div>
                                 <div class="ic-cont">
-                                    <h4>Best brand award 2021</h4>
-                                    <p class="mt15">Lipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. </p>
+                                    <h4>Best brand award <br> 2021</h4>
+                                    <p class="mt15">Our business was honored to win the prestigious Best Brand Award in 2021, which is a testimonial to our commitment to quality and creativity. </p>
                                 </div>
                             </div>
                         </div>
@@ -90,8 +87,7 @@
                                 </div>
                                 <div class="ic-cont">
                                     <h4>Good app developer 2020-21</h4>
-                                    <p class="mt15">Lipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. </p>
+                                    <p class="mt15">Recognized as a top app developer in 2020–21, demonstrating our commitment to excellence and innovation in user-centered solutions.</p>
                                 </div>
                             </div>
                         </div>

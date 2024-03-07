@@ -95,7 +95,7 @@
 						<div class="ree-card-img"><img src="{{asset('images/icons/api.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Free API</h3>
-							<p class="mb-1">Get free APIs with every account easy to integrate and blazing fast.</p>
+							<p class="mb-1">Get free APIs with every account easy to integrate and blazing fast. <br><br></p>
 						</div>
 
 					</div>
@@ -191,20 +191,20 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 mt30 ">
-					<div class="process-content ree-card">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30  ">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-3">03</span>
 						<div class="process-block">
 							<div class="process-icon">
 								<img src="{{asset('images/icons/analysis.png')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Higher Open Rates</h4>
-							<p class="mb-4">Text messages boast a 98 percent open rate. On average, it takes only 90 seconds for the receiver to respond to a message (Omnisend). With the right text messaging marketing service, your SMS campaign can significantly impact your brand awareness and bottom line. </p>
+							<p class="mb-4">Text messages boast a 98 percent open rate. On average, it takes only 90 seconds for the receiver to respond to a message (Omnisend). With the right text messaging marketing service, your SMS campaign can significantly impact your brand awareness and bottom line.</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-4">04</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -228,7 +228,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-4">06</span>
 						<div class="process-block">
 							<div class="process-icon">

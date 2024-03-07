@@ -15,7 +15,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="sol-img m-mt30" data-aos="fade-in" data-aos-delay="400"><img src="images/inti-banner.png" alt="web app development" class="img-fluid"></div>
+                    <div class="sol-img m-mt30" data-aos="fade-in" data-aos-delay="400"><img src= "{{asset('images/inti-banner.png')}}" alt="web app development" class="img-fluid"></div>
                 </div>
             </div>
         </div>
@@ -75,7 +75,7 @@
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Shift management</h3>
                             <p class="mb-0">
-                                Integrated data-driven shift handover with real-time connectivity, visibility and communication<br><br>
+                                Integrated data-driven shift handover with real-time connectivity, visibility and communication
                             </p>
                         </div>
 
@@ -99,7 +99,7 @@
                         <div class="ree-card-img"><img src="{{asset('images/icons/siren.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Emergency Preparedness</h3>
-                            <p class="mb-0">Plan, train, communicate, and implement emergency prevention and response</p><br><br>
+                            <p class="mb-0">Plan, train, communicate, and implement emergency prevention and response</p>
                         </div>
 
                     </div>
@@ -109,9 +109,9 @@
                         <div class="ree-card-img"><img src="{{asset('images/icons/manager.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Emergency Management</h3>
-                            <p class="mb-2">
+                            <p class="mb-0">
 
-                                Converge Big Data in real-time with a dynamic view of emergency operations<br><br>
+                                Converge Big Data in real-time with a dynamic view of emergency operations
                             </p>
                         </div>
 
@@ -123,8 +123,7 @@
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Incident Management</h3>
                             <p class="mb-0">
-
-                                In-depth incident investigation, risk assessment, and root cause analysis with effective corrective actions and accurate documentation
+                                In-depth incident investigation, risk assessment, root cause analysis.
                             </p>
                         </div>
 

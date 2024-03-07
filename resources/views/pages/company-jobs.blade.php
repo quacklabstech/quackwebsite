@@ -208,7 +208,7 @@
           <div class="col-lg-12 text-center">
              <div class="page-headings">
                 <h2 class="mb15">Process of <span class="ree-text rt40">Interview</span></h2>
-                <p class="mt15">Lipsum dolor sit amet, consectetur adipisicing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p class="mt15">Conduct research, look well, be punctual, greet, listen, respond, inquire, follow up, and show gratitude.</p>
              </div>
           </div>
        </div>
@@ -219,8 +219,8 @@
                    <div class="process-icon">
                       <img src="{{asset('images/icons/interview.svg')}}" alt="service" class="icon70 mb15">
                    </div>
-                   <h4>HR Interview</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <h4>HR <br> Interview</h4>
+                   <p>Teamwork, leadership, flexibility, problem-solving, and communication. <br><br></p>
                 </div>
              </div>
           </div>
@@ -231,7 +231,7 @@
                       <img src="{{asset('images/icons/job-interview.svg')}}" alt="service" class="icon70 mb15">
                    </div>
                    <h4>Personal Interview</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <p>Prepare, communicate, showcase, professionalism, adaptability.</p>
                 </div>
              </div>
           </div>
@@ -241,8 +241,8 @@
                    <div class="process-icon">
                       <img src="{{asset('images/icons/browsing.svg')}}" alt="service" class="icon70 mb15">
                    </div>
-                   <h4>Practical Round</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <h4>Practical <br> Round</h4>
+                   <p>Skills, demonstration, real-world, assessment, performance. <br><br> </p>
                 </div>
              </div>
           </div>
@@ -253,7 +253,7 @@
                       <img src="{{asset('images/icons/suitcase.png')}}" alt="service" class="icon70 mb15">
                    </div>
                    <h4>Hire</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <p>Qualified, suitable, selected, recruited, employed. <br><br><br><br> </p>
                 </div>
              </div>
           </div>
@@ -269,7 +269,7 @@
           <div class="col-lg-12 text-center">
              <div class="page-headings">
                 <h2 class="mb15">We are hiring <span class="ree-text rt40">heroes!</span> Time to value your skills.</h2>
-                <p class="mt15">Lipsum dolor sit amet, consectetur adipisicing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p class="mt15">Come work with us, where we recognize and celebrate your skills!</p>
              </div>
           </div>
        </div>
@@ -280,8 +280,8 @@
                    <div class="process-icon">
                       <img src="{{asset('images/icons/peace-of-mind.svg')}}" alt="service" class="icon70 mb15">
                    </div>
-                   <h4>Peace of mind</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <h4>Peace of <br> mind</h4>
+                   <p>In our encouraging and fulfilling work environment, find peace of mind. </p>
                 </div>
              </div>
           </div>
@@ -292,7 +292,7 @@
                       <img src="{{asset('images/icons/healthcare.svg')}}" alt="service" class="icon70 mb15">
                    </div>
                    <h4>Private healthcare</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <p>Savor the advantages of private medical care for you and your loved ones.</p>
                 </div>
              </div>
           </div>
@@ -303,7 +303,7 @@
                       <img src="{{asset('images/icons/presentation.svg')}}" alt="service" class="icon70 mb15">
                    </div>
                    <h4>Internal workshops</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <p>Take advantage of internal workshops to reach your full potential.</p>
                 </div>
              </div>
           </div>
@@ -314,7 +314,7 @@
                       <img src="{{asset('images/icons/sunglasses.svg')}}" alt="service" class="icon70 mb15">
                    </div>
                    <h4>Additional accessories</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <p>Check out our assortment of matching accessories right now.</p>
                 </div>
              </div>
           </div>
@@ -325,7 +325,7 @@
                       <img src="{{asset('images/icons/paid-content.svg')}}" alt="service" class="icon70 mb15">
                    </div>
                    <h4>Books & paid content</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <p>Discover more with our carefully chosen collection of paid content. </p>
                 </div>
              </div>
           </div>
@@ -336,7 +336,7 @@
                       <img src="{{asset('images/icons/office-table.svg')}}" alt="service" class="icon70 mb15">
                    </div>
                    <h4>World class infrastructure</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <p>With our top-notch infrastructure solutions, enjoy excellence. </p>
                 </div>
              </div>
           </div>
@@ -347,7 +347,7 @@
                       <img src="{{asset('images/icons/group.svg')}}" alt="service" class="icon70 mb15">
                    </div>
                    <h4>Community Meetups</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <p>Meet people who share your interests at our community gatherings. </p>
                 </div>
              </div>
           </div>
@@ -358,7 +358,7 @@
                       <img src="{{asset('images/icons/consulting.svg')}}" alt="service" class="icon70 mb15">
                    </div>
                    <h4>Training and Mentorship</h4>
-                   <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+                   <p>Mentoring and training encourage development. <br><br></p>
                 </div>
              </div>
           </div>

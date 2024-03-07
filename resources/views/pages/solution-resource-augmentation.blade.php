@@ -89,7 +89,7 @@
 						<div class="ree-card-img"><img src="{{asset('images/icons/technical-support.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Support and Managed Services</h3>
-							<p>We, at Quacklabs, are helping organizations to serve their customers better with their services, products and applications. Our range of support and managed services provide organizations with the facility to solve queries through emails, voice chat and web solutions. To achieve reduced costs with a high return on investment, we have become the choice of many market leaders in the field of Software Development & other services related to the field of Information Technology.<br><br></p>
+							<p>Quacklabs specializes in elevating customer service for organizations by optimizing their services, products, and applications. Our comprehensive support and managed services streamline query resolution across multiple channels, including email, voice chat, and web solutions. Trusted by market leaders in Software Development and Information Technology, we prioritize cost reduction and ROI maximization. Join numerous industry frontrunners who rely on us to enhance their customer experience and achieve business success effectively.<br><br></p>
 						</div>
 
 					</div>
@@ -240,7 +240,7 @@
 					</div>
 				</div>
 				<div class="col-lg-6">
-					<div class="sol-img m-mt30" data-aos="fade-in" data-aos-delay="400"><img src="images/resource-banner.png" alt="web app development" class="img-fluid"></div>
+					<div class="sol-img m-mt30" data-aos="fade-in" data-aos-delay="400"><img src="{{asset('images/resource-banner.png')}}" alt="web app development" class="img-fluid"></div>
 				</div>
 			</div>
 		</div>
@@ -316,7 +316,7 @@
 						<div class="ree-card-img"><img src="{{asset('images/icons/technical-support.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Support and Managed Services</h3>
-							<p>We, at Quacklabs, are helping organizations to serve their customers better with their services, products and applications. Our range of support and managed services provide organizations with the facility to solve queries through emails, voice chat and web solutions. To achieve reduced costs with a high return on investment, we have become the choice of many market leaders in the field of Software Development & other services related to the field of Information Technology.<br><br></p>
+							<p>Quacklabs specializes in elevating customer service for organizations by optimizing their services, products, and applications. Our comprehensive support and managed services streamline query resolution across multiple channels, including email, voice chat, and web solutions. Trusted by market leaders in Software Development and Information Technology, we prioritize cost reduction and ROI maximization. Join numerous industry frontrunners who rely on us to enhance their customer experience and achieve business success effectively.<br><br></p>
 						</div>
 
 					</div>

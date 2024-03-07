@@ -62,8 +62,8 @@
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">
 								Compliance Risk Assessment</h3>
-							<p>
-								Identify and understand the full scope of compliance risk exposure with a clear picture of your control environment and areas of potential improvement.
+							<p class="mb-0">
+								Identify and understand the full scope of compliance risk exposure with a clear picture of your control environment and areas of potential improvement. <br><br>
 							</p>
 						</div>
 					</div>
@@ -86,9 +86,9 @@
 							<h3 class="mb15">
 								Database Assessment
 							</h3>
-							<p class="mb-2">
+							<p class="mb-1">
 
-								Gain an in-depth understanding of your entire database environment to help uncover and resolve existing issues and optimize database performance<br><br>
+								Gain an in-depth understanding of your entire database environment to help uncover and resolve existing issues and optimize database performance<br><br><br>
 							</p>
 						</div>
 
@@ -103,7 +103,7 @@
 							</h3>
 							<p>
 
-								Discover and report on your security vulnerabilities including in-depth severity analysis and categorization and customized, detailed mitigation plans
+								Discover and report on your security vulnerabilities including in-depth severity analysis and categorization and customized, detailed mitigation plans  <br> <br>
 
 							</p>
 						</div>
@@ -118,9 +118,7 @@
 								Physical Security Assessment
 							</h3>
 							<p>
-
 								Ensure your facility is as secure as possible with a physical security scheme analysis including vulnerability measurement and standards adherence
-
 							</p>
 						</div>
 
@@ -131,11 +129,11 @@
 						<div class="ree-card-img"><img src="{{asset('images/icons/shield.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">
-								Security Audit
+								Security <br> Audit
 							</h3>
-							<p class="mb-2">
+							<p class="">
 
-								Learn if you are complying with all applicable IT security regulations with a customized security audit that will identify any security shortcomings<br><br><br>
+								Learn if you are complying with all applicable IT security regulations with a customized security audit that will identify any security shortcomings  <br><br>
 
 							</p>
 						</div>
@@ -198,7 +196,7 @@
 								<img src="{{asset('images/icons/experience.png')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Expertise</h4>
-							<p>Quacklabs offers an interesting blend of business understanding and far reaching innovation mastery to help organizations grasp the maximum capacity of IT. <br><br><br></p>
+							<p>Quacklabs offers an interesting blend of business understanding and far reaching innovation mastery to help organizations grasp the maximum capacity of IT. <br><br><br><br></p>
 						</div>
 					</div>
 				</div>

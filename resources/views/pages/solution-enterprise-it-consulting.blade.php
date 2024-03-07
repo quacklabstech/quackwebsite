@@ -81,14 +81,14 @@
 
 					</div>
 				</div>
-				<div class="col-lg-6 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-6 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/optimization.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">
 								IFS Optimizations
 							</h3>
-							<p class="">
+							<p class="mb-0">
 
 								Enterprise Consulting helps customers expand and optimize their use of their IFS Applications™ through business process improvement and advanced integration with third party software. We are known for the high level of service we deliver and our long-term, satisfied customer base.
 							</p>
@@ -96,14 +96,14 @@
 
 					</div>
 				</div>
-				<div class="col-lg-6 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-6 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/server.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">
 								IFS Hosting & Managed Services
 							</h3>
-							<p>
+							<p class="mb-0">
 
 								Let us host and manage your IFS Applications™ while you manage your business, including deployment, 24x7 monitoring and infrastructure support.
 								<br><br><br>
@@ -169,7 +169,7 @@
 								<img src="{{asset('images/icons/experience.png')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Expertise</h4>
-							<p>Quacklabs offers an interesting blend of business understanding and far reaching innovation mastery to help organizations grasp the maximum capacity of IT. <br><br><br></p>
+							<p>Quacklabs offers an interesting blend of business understanding and far reaching innovation mastery to help organizations grasp the maximum capacity of IT. <br><br><br><br></p>
 						</div>
 					</div>
 				</div>

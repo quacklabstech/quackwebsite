@@ -101,7 +101,7 @@
                         <div class="ree-card-img"><img src="{{asset('images/icons/attendance.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Time and Attendance </h3>
-                            <p class="mb-2">Track the duration spent at the workplace and login/logout time of the employees whenever they start and end their day.</p>
+                            <p class="mb-0">Track the duration spent at the workplace and login/logout time of the employees whenever they start and end their day. <br><br></p>
                         </div>
 
                     </div>
@@ -127,7 +127,7 @@
                             <h3 class="mb15">Productivity</h3>
                             <p class="mb-0">
 
-                                Identify the relevant or irrelevant activities to analyze the productivity and unproductivity of the employees.
+                                Identify the relevant or irrelevant activities to analyze the productivity and unproductivity of the employees. <br><br>
                             </p>
                         </div>
 
@@ -212,7 +212,7 @@
                                 <img src="{{asset('images/icons/hidden.png')}}" alt="service" class="icon70 mb20">
                             </div>
                             <h4>Hierarchy</h4>
-                            <p class="mb-4">Set up an office staff hierarchy in which the reporting managers can monitor all the employees' work and help to improve.</p>
+                            <p >Establish a hierarchical office structure for monitoring and improving staff performance, led by reporting managers overseeing all employees.</p>
                         </div>
                     </div>
                 </div>
@@ -223,8 +223,8 @@
                             <div class="process-icon">
                                 <img src="{{asset('images/icons/teamwork.png')}}" alt="service" class="icon70 mb20">
                             </div>
-                            <h4>Department & team comparison</h4>
-                            <p class="mb-1">Admins can monitor the work status among teams and generate real-time reports about the progress and functioning of each department. <br><br></p>
+                            <h4>Comparison Analysis</h4>
+                            <p class="mb-1">Admins can monitor the work status among teams and generate real-time reports about the progress and functioning of each department. </p>
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                                 <img src="{{asset('images/icons/personal-time.png')}}" alt="service" class="icon70 mb20">
                             </div>
                             <h4>Private time</h4>
-                            <p class=""> Taking "Me Time" during the day to refresh the mind is necessary, pause and resume staff system tracking, and stay productive. </p>
+                            <p class="mb-1"> Taking "Me Time" during the day to refresh the mind is necessary, pause and resume staff system tracking, and stay productive. <br><br> </p>
                         </div>
                     </div>
                 </div>
@@ -248,7 +248,7 @@
                                 <img src="{{asset('images/icons/user-friendly.png')}}" alt="service" class="icon70 mb20">
                             </div>
                             <h4>User-friendly app</h4>
-                            <p class="mb-4">Configure the employee monitoring app in 5 mins and view the reports. The app will run smoothly without hindering other programs. <br></p>
+                            <p class="mb-1">Configure the employee monitoring app in 5 mins and view the reports. The app will run smoothly without hindering other programs. </p>
                         </div>
                     </div>
                 </div>

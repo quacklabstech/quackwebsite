@@ -54,8 +54,8 @@
         </div>
 
         <div class="row mt30">
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/blueprint.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Planning of Affiliate Marketing Program & Strategy </h3>
@@ -63,8 +63,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/affiliate.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Affiliate Marketing Solutions Deployment </h3>
@@ -76,8 +76,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/loudspeaker.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">
@@ -91,8 +91,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-6 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-6 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/interface.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Monitoring of Affiliate Services </h3>
@@ -101,8 +101,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-6 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-6 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/report.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Affiliate Networks Tracking & Reporting </h3>

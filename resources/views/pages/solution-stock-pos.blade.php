@@ -60,7 +60,7 @@
                         <div class="ree-card-img"><img src="{{asset('images/icons/salary.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Asset loans</h3>
-                            <p class="mb-0">Maximize asset utility by marking assets as loanable, and track them from the time of issue to return. <br><br><br><br></p>
+                            <p class="mb-0">Maximize asset utility by marking assets as loanable, and track them from the time of issue to return. <br><br><br><br><br></p>
                         </div>
                     </div>
                 </div>
@@ -90,29 +90,22 @@
 
                     </div>
                 </div>
-                <div class="col-lg-6 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-6 col-sm-6 d-flex">
+                    <div class="ree-card mt60 flex-fill">
                         <div class="ree-card-img"><img src="{{asset('images/icons/interface.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
-                            <h3 class="mb15">Software asset management
-                                Consulting And New Tech </h3>
-                            <p class="mb-1">Centralize all your software asset data and manage it effectively with predefined custom statuses; software type such as freeware or malware; details on purchase including vendor, cost, license expiry, and depreciation; automate periodic scans on individual assets; and stay updated on the status of each asset. </p>
+                            <h3 class="mb15">Software asset management Consulting And New Tech </h3>
+                            <p class="mb-1">Centralize all your software asset data and manage it effectively with predefined custom statuses; software type such as freeware or malware; details on purchase including vendor, cost, license expiry, and depreciation; automate periodic scans on individual assets; and stay updated on the status of each asset. <br><br> </p>
                         </div>
-
                     </div>
                 </div>
-                <div class="col-lg-6 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-6 col-sm-6 d-flex">
+                    <div class="ree-card mt60 flex-fill">
                         <div class="ree-card-img"><img src="{{asset('images/icons/project-management.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
-                            <h3 class="mb15">Hardware asset management
-                                Consulting </h3>
-                            <p class="mb-3">
-
-                                Build an inventory of all your hardware assets including Windows machines, virtual machines (VMs), and network devices with easy automatic scanning and tracking with periodic alerts. Maintain comprehensive asset data such as hardware specifications, software installed on them, asset ownership, and status for easy access and visibility into assets. <br><br>
-                            </p>
+                            <h3 class="mb15">Hardware asset management Consulting </h3>
+                            <p class="mb-3">Build an inventory of all your hardware assets including Windows machines, virtual machines (VMs), and network devices with easy automatic scanning and tracking with periodic alerts. Maintain comprehensive asset data such as hardware specifications, software installed on them, asset ownership, and status for easy access and visibility into assets. <br><br> </p>
                         </div>
-
                     </div>
                 </div>
 

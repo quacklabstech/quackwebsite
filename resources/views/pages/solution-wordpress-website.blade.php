@@ -53,17 +53,17 @@
         </div>
 
         <div class="row mt30">
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60"style="height: 100%;">
                     <div class="ree-card-img"><img src="{{asset('images/icons/wordpress.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
-                        <h3 class="mb15">Custom WordPress Web Design</h3>
-                        <p class="mb-3">As website design consultants, we understand that every business and every industry are unique. That is why we take time to get to know your business’ digital goals. Every WordPress website development project enrolls a full team of in-house developers, WordPress designers, and code reviewers to build your WordPress site fast and with a personal touch.</p>
+                        <h3 class="mb15">Customized WordPress</h3>
+                        <p class="mb-3">As adept website design consultants, we recognize the uniqueness of every business. Our approach involves understanding your digital goals deeply. With a full team of in-house developers, WordPress designers, and code reviewers, our WordPress website development projects ensure rapid and tailored creation. We deliver personalized solutions crafted to meet your specific needs, ensuring success in the digital landscape.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60"style="height: 100%;">
                     <div class="ree-card-img"><img src="{{asset('images/icons/add.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Collaboration Forward</h3>
@@ -72,8 +72,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60"style="height: 100%;">
                     <div class="ree-card-img"><img src="{{asset('images/icons/update.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Easy Updates</h3>
@@ -82,8 +82,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60" style="height: 100%;">
                     <div class="ree-card-img"><img src="{{asset('images/icons/search.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Better Search Results</h3>
@@ -92,8 +92,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60"style="height: 100%;">
                     <div class="ree-card-img"><img src="{{asset('images/icons/responsive-design.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Mobile Responsive Design</h3>
@@ -102,8 +102,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60"style="height: 100%;">
                     <div class="ree-card-img"><img src="{{asset('images/icons/wordpress.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">WordPress Web Packages</h3>
@@ -166,7 +166,7 @@
                             <img src="{{asset('images/icons/wordpress.png')}}" alt="service" class="icon70 mb20">
                         </div>
                         <h4>WordPress Website Design Flexibility</h4>
-                        <p>In the hands of a WordPress expert, you have a fully customizable web platform that is an ideal tool for creating virtually any kind of website. Showcase your business site, blog or eCommerce store the way you want with WordPress website design. There are more than 5,000 free WordPress themes that benchmark how to design a WordPress website the right way and a WordPress developer can build one uniquely for you.<br><br></p>
+                        <p>With the expertise of a WordPress specialist, you gain access to a highly customizable web platform perfect for crafting diverse websites. Choose from over 5,000 free WordPress themes to kickstart your design, or collaborate with a developer for a bespoke site tailored to your needs. Whether it's a business showcase, a dynamic blog, or an online store, WordPress offers limitless possibilities. Express your brand identity and capture your audience's attention effectively with WordPress website design.<br><br></p>
                     </div>
                 </div>
             </div>

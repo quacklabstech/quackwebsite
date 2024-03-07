@@ -56,7 +56,7 @@
 						</div>
 					</div>
 					<div class="col-lg-6 vcenter text-center">
-						<div class="sol-img-png"> <img src="{{('images/cta/developers.svg')}}" alt="app" class="img-fluid"> </div>
+						<div class="sol-img-png"> <img src="{{asset('images/cta/developers.svg')}}" alt="app" class="img-fluid"> </div>
 					</div>
 				</div>
 			</div>

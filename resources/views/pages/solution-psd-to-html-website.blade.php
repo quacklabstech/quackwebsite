@@ -108,7 +108,8 @@
 						<div class="ree-card-img"><img src="{{asset('images/software.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">PSD to Any CMS</h3>
-							<p>Whether you are using WordPress, Magento or any other CMS for your website, we help you turn your design (PSD, PNG, etc.) into hand coded, pixel perfect, and W3C compliant CMS themes or templates.<br><br></p>
+							<p>
+								Let us craft your designs into CMS themes or templates flawlessly. From PSD, PNG, or any format, we specialize in WordPress, Magento, and others, delivering pixel-perfect, W3C compliant results tailored to your vision.<br><br></p>
 						</div>
 
 					</div>
@@ -179,7 +180,7 @@
 								<img src="{{asset('images/icons/seo.png')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>SEO-Friendly Markups</h4>
-							<p>Everyone wants to rank higher in Google, and our PSD to HTML Conversion Company utilizes 100% SEO friendly markup to ensure that your website is free from all the technical glitches and help you gain a better position in the search engines.</p>
+							<p>Our PSD to HTML Conversion Company employs 100% SEO-friendly markup, eliminating technical glitches for better search engine rankings. With our services, your website will be optimized to achieve higher positions on Google, enhancing visibility and driving traffic.</p>
 						</div>
 					</div>
 				</div>
@@ -196,7 +197,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-4">04</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -208,7 +209,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-5">05</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -221,14 +222,15 @@
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-6">06</span>
 						<div class="process-block">
 							<div class="process-icon">
 								<img src="{{asset('images/icons/start-up.svg')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Image Optimization</h4>
-							<p>Image optimization is to reduce the size of image with finding optimal settings for your image requires careful analysis along dimensions: format capabilities, the content of encoded data, quality, pixel dimensions, and more.</p>
+							<p>
+								Image optimization involves reducing image size by analyzing format capabilities, encoded data content, quality, pixel dimensions, and more to find optimal settings. This requires careful analysis across various dimensions to ensure efficient compression and quality preservation.</p>
 						</div>
 					</div>
 				</div>

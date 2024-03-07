@@ -55,7 +55,7 @@
                     <div class="ree-card mt30" data-aos="fade-in" data-aos-delay="500">
                         <div class="">
                             <div class="review-text">
-                                <p>I just want to say that thanks for everything. I just feel lucky to work with quacklabs. It is one of the best IT companies ever. I love the environment and my whole quacklabs team. "Accelerating, information age ". ❤️✌️✌️❤️</p>
+                                <p>I just want to say that thanks for everything. I just feel lucky to work with quacklabs. It is one of the best IT companies ever. I love the environment and my whole quacklabs team. "Revolution in Information."❤️✌️</p>
                             </div>
                             <div class="ree-row-set mt30">
                                 <div class="media vcenter">
@@ -91,7 +91,7 @@
                     <div class="ree-card mt30" data-aos="fade-in" data-aos-delay="500">
                         <div class="">
                             <div class="review-text">
-                                <p class="mb-8">I have enjoyed working with QuackLabs. Great work environment & Best Product Based Software Development Company in Bhubaneswar. It provides best platform to enhance knowledge and skills.</p><br>
+                                <p class="mb-8">I have enjoyed working with QuackLabs. Great work environment & Best Product Based Software Development Company in Bhubaneswar. It provides best platform to enhance knowledge and skills.</p>
                             </div>
                             <div class="ree-row-set mt30">
                                 <div class="media vcenter">
@@ -109,7 +109,7 @@
                     <div class="ree-card mt30" data-aos="fade-in" data-aos-delay="500">
                         <div class="">
                             <div class="review-text">
-                                <p>Very nice organization . Every day getting new opportunities to learn. Management & seniors are very helpful and supportive. I recommend to join this organization for every job seeker because organization is growing & getting new responsibilities & chance to learn latest technologies.</p>
+                                <p>Highly supportive environment with ample learning opportunities. Management and seniors offer great guidance. Recommended for job seekers due to growth, responsibilities, and exposure to latest technologies.</p>
                             </div>
                             <div class="ree-row-set mt30">
                                 <div class="media vcenter">

@@ -85,7 +85,7 @@
 						<div class="ree-card-img"><img src="{{asset('images/icons/buy-online.svg')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Customer-facing apps</h3>
-							<p>Customer service apps, Customer portals, Ecommerce web apps, Advertising & digital signage apps, Online banking, lending, and payment software</p>
+							<p>Customer service apps, Customer portals, Ecommerce web apps, Advertising & digital signage apps, Online banking, lending, and payment software <br><br></p>
 						</div>
 
 					</div>
@@ -172,7 +172,7 @@
 							<div class="process-icon">
 								<img src="{{asset('images/icons/pencil.svg')}}" alt="service" class="icon70 mb20">
 							</div>
-							<h4>Information Gathering</h4>
+							<h4>Research</h4>
 							<p>The stage of discovering and researching, determines how the subsequent steps will look like.</p>
 						</div>
 					</div>
@@ -185,7 +185,7 @@
 								<img src="{{asset('images/icons/creativity.svg')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Planning</h4>
-							<p>Creates the data that allows a customer to judge how the entire site will look like</p>
+							<p>Creates the data that allows a customer to judge how the entire site will look like <br><br><br></p>
 						</div>
 					</div>
 				</div>
@@ -208,7 +208,7 @@
 							<div class="process-icon">
 								<img src="{{asset('images/icons/writing.png')}}" alt="service" class="icon70 mb20">
 							</div>
-							<h4>Content Writing</h4>
+							<h4>Production</h4>
 							<p> it is necessary to put in writing the very essence you’d like to communicate to the audience of your website</p>
 						</div>
 					</div>
@@ -221,7 +221,7 @@
 								<img src="{{asset('images/icons/computer.svg')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Coding</h4>
-							<p>finally start creating the website itself. Graphic elements that have been designed during the previous stages should be used to create an actual website<br><br></p>
+							<p>finally start creating the website itself. Graphic elements that have been designed during the previous stages should be used to create an actual website</p>
 						</div>
 					</div>
 				</div>
@@ -233,7 +233,7 @@
 							<div class="process-icon">
 								<img src="{{asset('images/icons/start-up.svg')}}" alt="service" class="icon70 mb20">
 							</div>
-							<h4>Testing and Launch</h4>
+							<h4>Deployment</h4>
 							<p>Testing is probably the most routine part of a process. Every single link should be tested to make sure that there are no broken ones among them.<br><br> </p>
 						</div>
 					</div>
@@ -247,7 +247,7 @@
 								<img src="{{asset('images/icons/main.png')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Maintenance</h4>
-							<p>It’s not enough to “deliver” a website to a user. You should also make sure that everything works fine. and everybody is satisfied<br><br></p>
+							<p>It’s not enough to “deliver” a website to a user. You should also make sure that everything works fine. and everybody is satisfied<br><br><br></p>
 						</div>
 					</div>
 				</div>

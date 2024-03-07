@@ -96,7 +96,7 @@
 
 
                             </h3>
-                            <p class="mb-0">A product email is a message that is sent to potential or existing customers to promote a product or service.<br><br><br><br></p>
+                            <p class="mb-0">Exciting news! Our latest innovation is here. Elevate your experience with our new product. Explore now and enjoy exclusive perks. Don't miss out—shop today.<br><br><br><br></p>
                         </div>
                     </div>
                 </div>
@@ -113,11 +113,11 @@
 
 
                             </h3>
-                            <p class="mb-0">An offer email is a message that is sent to potential or existing customers to promote a special deal or discount on a product or service. Offer emails may include information about the terms of the offer </p>
+                            <p class="mb-0">An offer email entices potential or existing customers with special deals or discounts. It details terms like duration, eligible products, and any conditions, aiming to boost sales and engagement effectively.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
+                {{-- <div class="col-lg-3 col-sm-6">
                     <div class="ree-card  mt60">
                         <div class="ree-card-img"><img src="{{asset('images/icons/giftbox.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
@@ -145,7 +145,7 @@
 
 
                             </h3>
-                            <p class="mb-0">A survey email is a message that is sent to potential customers to solicit their feedback about a product, service, or experience. Survey emails are a common marketing tool that businesses use to gather insights and opinions from their audience. </p>
+                            <p class="mb-0">A survey email is a message sent to potential customers to gather feedback on a product, service, or experience. It's a common marketing tool used by businesses to gather insights and opinions from their audience.</p>
                         </div>
                     </div>
                 </div>
@@ -174,6 +174,42 @@
                                 Announcement Email
                             </h3>
                             <p class="mb-3">Announcement emails are often used by businesses, organizations, and individuals to share important news and information with their audience. <br><br> </p>
+                        </div>
+                    </div>
+                </div> --}}
+                <div class="col-lg-3 col-sm-6 mt-5">
+                    <div class="ree-card mt-60 h-100">
+                        <div class="ree-card-img"><img src="{{asset('images/icons/giftbox.png')}}" alt="services"></div>
+                        <div class="ree-card-content mt-40">
+                            <h3 class="mb-15 pt-5 pb-3">Free Gift Email</h3>
+                            <p class="mb-0">A free gift email is a message that is sent to potential or existing customers to promote a free gift or other incentive that is being offered to encourage them to take a desired action, such as making a purchase or signing up for a service.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 mt-5">
+                    <div class="ree-card mt-60 h-100">
+                        <div class="ree-card-img"><img src="{{asset('images/icons/reviews.png')}}" alt="services"></div>
+                        <div class="ree-card-content mt-40">
+                            <h3 class="mb-15 pt-5 pb-3">Survey Email</h3>
+                            <p class="mb-0">A survey email is a message sent to potential customers to gather feedback on a product, service, or experience. It's a common marketing tool used by businesses to gather insights and opinions from their audience.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 mt-5">
+                    <div class="ree-card mt-60 h-100">
+                        <div class="ree-card-img"><img src="{{asset('images/icons/hiring.png')}}" alt="services"></div>
+                        <div class="ree-card-content mt-40">
+                            <h3 class="mb-15 pt-5 pb-3">We're Hiring Email</h3>
+                            <p class="mb-0">A "We're hiring" email is a message that is sent to potential job candidates to promote job openings and encourage them to apply for positions at a business or organization. The goal of a "We're hiring" email is typically to find talented individuals to join the team.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 mt-5">
+                    <div class="ree-card mt-60 h-100">
+                        <div class="ree-card-img"><img src="{{asset('images/icons/influencer.png')}}" alt="services"></div>
+                        <div class="ree-card-content mt-40">
+                            <h3 class="mb-15 pt-5 pb-3">Announcement Email</h3>
+                            <p class="mb-3">Announcement emails are often used by businesses, organizations, and individuals to share important news and information with their audience.</p>
                         </div>
                     </div>
                 </div>

@@ -57,9 +57,9 @@
                 </div>
             </div>
 
-            <div class="row mt30">
+            {{-- <div class="row mt30">
                 <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                    <div class="ree-card  mt60 ">
                         <div class="ree-card-img"><img src="{{asset('images/icons/suitcase.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Ownership</h3>
@@ -95,7 +95,37 @@
 
 
 
+            </div> --}}
+            <div class="row mt-30">
+                <div class="col-lg-4 col-sm-6 mt-5">
+                    <div class="ree-card mt-60 d-flex flex-column h-100">
+                        <div class="ree-card-img"><img src="{{asset('images/icons/suitcase.png')}}" alt="services"></div>
+                        <div class="ree-card-content mt-40">
+                            <h3 class="mb-15 pt-4 pb-3">Ownership</h3>
+                            <p class="mb-0">First, a company must have ownership or control of the asset. This enables the company to convert the asset into cash or a cash equivalent and limits others’ control over the item. Note, right of use assets aren’t always convertible. Lease agreements often stipulate that the lease cannot be transferred or sold. The ownership property is important when considering an asset’s informal meaning versus its technical meaning. For example, companies often say their employees are their “greatest asset,” but in terms of accounting, companies don’t have true control over them—employees can easily leave for a new job.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 mt-5">
+                    <div class="ree-card mt-60 d-flex flex-column h-100">
+                        <div class="ree-card-img"><img src="{{asset('images/icons/training.png')}}" alt="services"></div>
+                        <div class="ree-card-content mt-40">
+                            <h3 class="mb-15 pt-4 pb-3">Economic value</h3>
+                            <p class="mb-0">Second, an asset must also provide economic value. All assets can be sold or otherwise converted to cash, except for some right of use assets such as lease agreements. In that way, assets can be used to support production and business growth.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 mt-5">
+                    <div class="ree-card mt-60 d-flex flex-column h-100">
+                        <div class="ree-card-img"><img src="{{asset('images/icons/optimization.png')}}" alt="services"></div>
+                        <div class="ree-card-content mt-40">
+                            <h3 class="mb-15 pt-4 pb-3">Resource</h3>
+                            <p class="mb-0">Finally, an asset must be a resource, which means it has or can be used to generate future economic value. This generally means that the asset can create future positive cash inflows.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
+            
         </div>
     </section>
     <!--service expertise end-->

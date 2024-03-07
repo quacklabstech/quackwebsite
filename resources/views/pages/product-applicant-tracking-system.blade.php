@@ -38,7 +38,7 @@
                     </div>
                     <div class="bottom-images mb60">
                         <div class="d-flex justify-content-center">
-                            <img src="{{asset('./images/portfolio/portfolio-3.jpg')}}" alt="ats-portfolio-one" title="ats-portfolio-one" class="preview-img first-img">
+                            <img src="{{asset('./images/portfolio/portfolio-3.jpg')}}" alt="ats-portfolio-one" title="ats-portfolio-one" class="preview-img first-img" >
                             <img src="{{asset('./images/portfolio/ats-product-img.jpg')}}" alt="ats-portfolio-two" title="ats-portfolio-two" class="preview-img">
                         </div>
                     </div>

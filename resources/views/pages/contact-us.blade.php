@@ -9,7 +9,7 @@
 @endsection
 @section('content')
 	<!--contact info-->
-	<div class="contact-head-sec r-bg-a pt85 pb120">
+	<div class="contact-head-sec r-bg-a pt85 pb120" id="contact">
 		<div class="container">
 			<div class="row pt80">
 				<div class="col-lg-5 vcenter">
@@ -27,7 +27,7 @@
 								<div class="ree-row-set">
 									<div class="ree-icon-set dtb-icon"> <i class="fas fa-phone-alt"></i> </div>
 									<div class="ree-details-set dtb-details">
-										<span>Salse Department</span>
+										<span>Sales Department</span>
 										<a href="tel:+911234567890"> +91 1234567890 </a>
 										<a href="tel:+911234567890"> +91 1234567890 </a>
 									</div>
@@ -53,7 +53,7 @@
 								<div class="ree-row-set">
 									<div class="ree-icon-set dtb-icon"> <i class="fas fa-envelope"></i> </div>
 									<div class="ree-details-set dtb-details">
-										<span>Salse Department</span>
+										<span>Sales Department</span>
 										<a href="mailto: sales@quacklabs.co.in"> <span class="">sales@quacklabs.co.in</span> </a>
 									</div>
 								</div>

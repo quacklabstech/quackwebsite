@@ -68,7 +68,7 @@
                     <div class="ree-card  mt60">
                         <div class="ree-card-img"><img src="{{asset('images/icons/delivery-man.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
-                            <h3 class="mb15">online ordering and delivery</h3>
+                            <h3 class="mb15">E-commerce Logistics</h3>
                             <p class="mb-0">Integrate online orders from any food aggregator directly into your restaurant management system. Serve more customers and orders by efficiently managing delivery with your own delivery App</p>
                         </div>
                     </div>
@@ -78,8 +78,8 @@
                         <div class="ree-card-img"><img src="{{asset('images/icons/restaurant.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Restaurant Point of Sale</h3>
-                            <p class="mb-2">
-                                Quick and efficient restaurant billing at your fingertips. Get visual representation of table availability status, steward availability, due-bills and KOT - all at a glance using our restaurant software<br><br>
+                            <p class="mb-0">
+                                Quick and efficient restaurant billing at your fingertips. Get visual representation of table availability status, steward availability, due-bills and KOT - all at a glance using our restaurant software<br>
                             </p>
                         </div>
 
@@ -90,10 +90,10 @@
                         <div class="ree-card-img"><img src="{{asset('images/icons/server(1).png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">
-                                Data Back-up and Security
+                                Backup Assurance
                             </h3>
-                            <p class="mb-2">
-                                Gosecure ensures that your business data is in safe hands with real time backup on cloud. The BaaS tool is secure, reliable and easy to restore ensuring 100% business continuity of your restaurant operations<br><br> </p>
+                            <p class="mb-0">
+                                Gosecure ensures that your business data is in safe hands with real time backup on cloud. The BaaS tool is secure, reliable and easy to restore ensuring 100% business continuity of your restaurant operations<br> </p>
                         </div>
 
                     </div>
@@ -102,7 +102,7 @@
                     <div class="ree-card  mt60">
                         <div class="ree-card-img"><img src="{{asset('images/icons/recipe.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
-                            <h3 class="mb15">Production and Recipe management </h3>
+                            <h3 class="mb15">Operations Oversight</h3>
                             <p class="mb-0">Improve accuracy in your kitchen. Take control of your recipes by mapping them to their ingredients to preserve consistent taste. Manage prices effectively by calculating production cost incurred in the most simple way using our restaurant software</p>
                         </div>
 
@@ -113,7 +113,7 @@
                         <div class="ree-card-img"><img src="{{asset('images/icons/loyalty.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">CRM and Loyalty</h3>
-                            <p class="mb-2">
+                            <p class="mb-0">
 
                                 Attract foodies and non-foodies alike with personalized offers, coupons, vouchers, happy hour offers and much more – and keep them coming back for more!<br><br><br><br>
                             </p>
@@ -128,7 +128,7 @@
                             <h3 class="mb15">Business Intelligence</h3>
                             <p class="mb-0">
 
-                                Simple and actionable reports to manage your day-to-day operations smoothly. Generate real-time dashboards using our restaurant software with more than 350+ MIS reports for quick decision making, understanding trends, and optimizing operations<br><br>
+                                Simple and actionable reports to manage your day-to-day operations smoothly. Generate real-time dashboards using our restaurant software with more than 350+ MIS reports for quick decision making, understanding trends, and optimizing operations
                             </p>
                         </div>
 

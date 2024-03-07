@@ -82,13 +82,13 @@
 						<div class="ree-card-img"><img src="{{asset('images/icons/social-media.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Social Ads </h3>
-							<p>Social media paid advertising is the fastest-growing segment of pay per click advertising services. Social ads appear on social media platforms, such as Facebook, LinkedIn and Twitter. They are programmed to reach prospects based on their hobbies, networks and interests, among other factors. Social media advertising is suitable for brands with an active social media presence and highly-targeted customers. </p>
+							<p>Social media paid advertising is the fastest-growing segment of pay per click advertising services. Social ads appear on social media platforms, such as Facebook, LinkedIn and Twitter. They are programmed to reach prospects based on their hobbies, networks and interests, among other factors. Social media advertising is suitable for brands with an active social media presence and highly-targeted customers. <br> <br> </p>
 						</div>
 
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/retargeting.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Remarketing Ads</h3>
@@ -97,8 +97,8 @@
 
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/adwords.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Google Shopping Ads</h3>
@@ -107,8 +107,8 @@
 
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/live.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">In-stream Ads</h3>
@@ -117,8 +117,8 @@
 
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/gmail.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Gmail Sponsored Promotions (GSP)</h3>
@@ -127,8 +127,8 @@
 
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/store.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Local Services Ads</h3>
@@ -137,8 +137,8 @@
 
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="ree-card  mt60">
+				<div class="col-lg-4 col-sm-6 mb-5">
+					<div class="ree-card  mt60 h-100">
 						<div class="ree-card-img"><img src="{{asset('images/icons/amazon.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Amazon PPC Ads</h3>
@@ -195,7 +195,7 @@
 			</div>
 			<div class="row justify-content-center mt30">
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-1">01</span>
 						<div class="process-block">
 							<div class="process-icon">
@@ -207,7 +207,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-2">02</span>
 						<div class="process-block ">
 							<div class="process-icon">
@@ -231,19 +231,19 @@
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card ">
 						<span class="setps hst-4">04</span>
 						<div class="process-block">
 							<div class="process-icon">
 								<img src="{{asset('images/icons/results.png')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Fast Results</h4>
-							<p> One of the biggest advantages of pay per click advertising services is you can get immediate results upon campaign launch. Once our pay per click advertising company has set up your PPC campaign, you can see the results overnight. However, keep in mind that the first three months typically serve as a testing period. This means to get more favorable results, you need to acquire valuable data and continuously improve your campaign’s overall performance. </p>
+							<p> One of the biggest advantages of pay per click advertising services is you can get immediate results upon campaign launch. Once our pay per click advertising company has set up your PPC campaign, you can see the results overnight. However, keep in mind that the first three months typically serve as a testing period. This means to get more favorable results, you need to acquire valuable data and continuously improve your campaign’s overall performance.  </p>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-6 mt30">
-					<div class="process-content ree-card">
+					<div class="process-content ree-card h-100">
 						<span class="setps hst-4">05</span>
 						<div class="process-block">
 							<div class="process-icon">

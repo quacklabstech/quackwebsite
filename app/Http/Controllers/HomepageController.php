@@ -313,4 +313,10 @@ class HomepageController extends Controller
     return view('pages.company-portfolio-all');
   }
   // cloudSassAll
+  public function blogDetails2(){
+    return view('pages.blog-details2');
+  }
+  public function blogDetails3(){
+    return view('pages.blog-details3');
+  }
 }

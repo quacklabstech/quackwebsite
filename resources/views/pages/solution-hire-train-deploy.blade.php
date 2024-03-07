@@ -83,10 +83,13 @@
                         <div class="ree-card-img"><img src="{{asset('images/icons/suitcase.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Hire</h3>
-                            <p class="mb-0">Based on the business needs and objectives of our clients, we hire apprentices/freshers/candidates.<br><br><br></p>
+                            <p class="mb-0">
+                                Recruit top talent to achieve client objectives efficiently and effectively.<br><br><br>
+                            </p>
                         </div>
                     </div>
                 </div>
+              
                 <div class="col-lg-3 col-sm-6">
                     <div class="ree-card  mt60">
                         <div class="ree-card-img"><img src="{{asset('images/icons/training.png')}}" alt="services"> </div>
@@ -117,7 +120,7 @@
                         <div class="ree-card-img"><img src="{{asset('images/icons/helping-hand.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Support</h3>
-                            <p class="mb-0">To increase the success rate of our Hire-Train-Deploy model, we support both clients and candidates throughout the process and post deployment.</p>
+                            <p class="mb-0">Enhance Hire-Train-Deploy success; support clients and candidates throughout deployment.</p>
                         </div>
 
                     </div>

@@ -60,7 +60,7 @@
                     <div class="ree-card-img"><img src="{{asset('images/icons/infrastructure.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Infrastructure Management Services </h3>
-                        <p class="mb-0">Infrastructure management services include preparation, design, execution, maintenance, and evolution of IT infrastructure. QuackLabs has been assisting businesses in keeping their cloud infrastructures, enterprise systems, networks, and applications reliable, highly available, and cost-effective. Our highly skilled professionals strive for measurable outcomes at all times. <br><br><br><br><br><br></p>
+                        <p class="mb-0">Infrastructure management services include preparation, design, execution, maintenance, and evolution of IT infrastructure. QuackLabs has been assisting businesses in keeping their cloud infrastructures, enterprise systems, networks, and applications reliable, highly available, and cost-effective. Our highly skilled professionals strive for measurable outcomes at all times. <br><br><br><br><br><br><br></p>
                     </div>
                 </div>
             </div>
@@ -87,7 +87,7 @@
 
                         </h3>
                         <p class="mb-0">
-                            IT Service Management is the ongoing process of managing a company's hardware, software, and computing resources. Quacklabs will leverage its IT Service management consulting experience to assist you in improving the quality and speed of IT service delivery. At Quacklabs, our consultants Plan and implement IT service management processes that are tailored to your organization's specific IT environment. We ensure to strengthen your company's incident management, IT asset management, change management, and knowledge management.<br><br>
+                            IT Service Management is the ongoing process of managing a company's hardware, software, and computing resources. Quacklabs will leverage its IT Service management consulting experience to assist you in improving the quality and speed of IT service delivery. At Quacklabs, our consultants Plan and implement IT service management processes that are tailored to your organization's specific IT environment. We ensure to strengthen your company's incident management, IT asset management, change management, and knowledge management.
                         </p>
                     </div>
 

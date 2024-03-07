@@ -62,13 +62,13 @@
 				</div>
 			</div>
 
-			<div class="row mt30">
+			{{-- <div class="row mt30">
 				<div class="col-lg-4 col-sm-6">
 					<div class="ree-card  mt60">
 						<div class="ree-card-img"><img src="{{asset('images/icons/android.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
-							<h3 class="mb15">Android App Development</h3>
-							<p>Android App Development is the process of creating applications for mobile devices powered by the Android operating system. These applications are developed using a variety of programming languages and frameworks, including Java, Kotlin.</p>
+							<h3 class="mb15">Mobile Development</h3>
+							<p>Mobile Development is the process of creating applications for mobile devices powered by the Android operating system. These applications are developed using a variety of programming languages and frameworks, including Java, Kotlin.</p>
 						</div>
 					</div>
 				</div>
@@ -106,8 +106,8 @@
 					<div class="ree-card  mt60">
 						<div class="ree-card-img"><img src="{{asset('images/icons/iot.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
-							<h3 class="mb15">IoT App Development</h3>
-							<p class="mb-2">IoT app development involves building applications to control and monitor Internet of Things (IoT) devices. This includes developing software or firmware for the underlying hardware, creating user interfaces for controlling <br><br></p>
+							<h3 class="mb15">IoT App <br> Development</h3>
+							<p class="mb-2">IoT app development involves building applications to control and monitor Internet of Things (IoT) devices. This includes developing software or firmware for the underlying hardware, creating user interfaces for controlling </p>
 						</div>
 
 					</div>
@@ -122,7 +122,66 @@
 
 					</div>
 				</div>
+				
+				
+			</div> --}}
+			<div class="row mt30 row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+				<div class="col mb-5">
+					<div class="ree-card mt60 h-100 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/icons/android.png')}}" alt="services"></div>
+						<div class="ree-card-content mt40 flex-grow-1">
+							<h3 class="mb15">Mobile Development</h3>
+							<p>Mobile Development is the process of creating applications for mobile devices powered by the Android operating system. These applications are developed using a variety of programming languages and frameworks, including Java, Kotlin.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col mb-5">
+					<div class="ree-card mt60 h-100 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/icons/ipad.png')}}" alt="services"></div>
+						<div class="ree-card-content mt40 flex-grow-1">
+							<h3 class="mb15">iPad App Development</h3>
+							<p>iPad app development is the process of creating software applications for the Apple iPad tablet. These applications can range from games, educational applications, entertainment apps, productivity apps, and many other types of applications</p>
+						</div>
+					</div>
+				</div>
+				<div class="col mb-5">
+					<div class="ree-card mt60 h-100 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/icons/app-store.png')}}" alt="services"></div>
+						<div class="ree-card-content mt40 flex-grow-1">
+							<h3 class="mb15">iPhone App Development</h3>
+							<p class="mb-2">Apple's App Store has become one of the largest and most popular mobile application marketplaces in the world. As such, many businesses are now turning to iOS app development as a way to reach</p>
+						</div>
+					</div>
+				</div>
+				<div class="col mb-5">
+					<div class="ree-card mt60 h-100 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/icons/smartwatch-app.png')}}" alt="services"></div>
+						<div class="ree-card-content mt40 flex-grow-1">
+							<h3 class="mb15">Wearable App Development</h3>
+							<p class="mb-0">Wearable app development is the process of developing software applications for wearable devices, such as smart watches, activity trackers, virtual reality headsets, and other wearable technology</p>
+						</div>
+					</div>
+				</div>
+				<div class="col mb-5">
+					<div class="ree-card mt60 h-100 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/icons/iot.png')}}" alt="services"></div>
+						<div class="ree-card-content mt40 flex-grow-1">
+							<h3 class="mb15">IoT App Development</h3>
+							<p class="mb-2">IoT app development involves building applications to control and monitor Internet of Things (IoT) devices. This includes developing software or firmware for the underlying hardware, creating user interfaces for controlling </p>
+						</div>
+					</div>
+				</div>
+				<div class="col mb-5">
+					<div class="ree-card mt60 h-100 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/icons/smartphone.png')}}" alt="services"></div>
+						<div class="ree-card-content mt40 flex-grow-1">
+							<h3 class="mb15">Hybrid Mobile App Development</h3>
+							<p>Hybrid mobile app development is a mobile application development approach that combines the use of web technologies such as HTML, CSS and JavaScript with native platform capabilities to create a mobile application</p>
+						</div>
+					</div>
+				</div>
 			</div>
+			
 		</div>
 	</section>
 	<!--service expertise end-->
@@ -178,7 +237,7 @@
 							<h4>Analysis of Requirements</h4>
 							<ul class="list-check list-icon mt30">
 								<li>Get to know our client</li>
-								<li>Comprehending client’s requirement</li>
+								<li>Client comprehension</li>
 								<li>Proposing solution</li>
 							</ul>
 						</div>
@@ -207,7 +266,7 @@
 							<div class="process-icon">
 								<img src="{{asset('images/icons/prototype.svg')}}" alt="service" class="icon70 mb20">
 							</div>
-							<h4>Development</h4>
+							<h4>Product & <br> development</h4>
 							<ul class="list-check list-icon mt30">
 								<li>Coding the app</li>
 								<li>Layout main sections</li>
@@ -241,7 +300,7 @@
 							</div>
 							<h4>Deployment</h4>
 							<ul class="list-check list-icon mt30">
-								<li>Deploy(App Launch) to App Stores</li>
+								<li>App store release</li>
 								<li>Deploy to client’s server</li>
 								<li>App available for users</li>
 							</ul>

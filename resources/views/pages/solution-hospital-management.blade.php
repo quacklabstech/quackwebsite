@@ -89,8 +89,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/surgery-room.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Operations Management</h3>
@@ -99,8 +99,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/therapy.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Online Hospital</h3>
@@ -109,8 +109,8 @@
 
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="ree-card  mt60">
+                <div class="col-lg-4 col-sm-6 mb-5">
+                    <div class="ree-card  mt60 h-100">
                         <div class="ree-card-img"><img src="{{asset('images/icons/hospitalisation.png')}}" alt="services"> </div>
                         <div class="ree-card-content mt40">
                             <h3 class="mb15">Patient Feedback System</h3>

@@ -56,7 +56,7 @@
 			</div>
 
 			<div class="row mt30">
-				<div class="col-lg-4 col-sm-6">
+				{{-- <div class="col-lg-4 col-sm-6">
 					<div class="ree-card  mt60">
 						<div class="ree-card-img"><img src="{{asset('images/icons/pen-tool.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
@@ -64,13 +64,33 @@
 							<p>Designer designs the product with raw data and put it into design mode using advanced design technology in the market with their creative mind. The designer is fully skilled who compete in the market to make your product more effective and powerful display.<br><br></p>
 						</div>
 					</div>
+				</div> --}}
+				<div class="col-lg-4 col-sm-6">
+					<div class="ree-card  mt60">
+						<div class="ree-card-img"><img src="{{asset('images/icons/pen-tool.png')}}" alt="services"> </div>
+						<div class="ree-card-content mt40">
+							<h3 class="mb15">Design Performance</h3>
+							<p>Designer designs the product with raw data and put it into design mode using advanced design technology in the market with their creative mind. The designer is fully skilled who compete in the market to make your product more effective and powerful display.</p>
+						</div>
+
+					</div>
 				</div>
+				{{-- <div class="col-lg-4 col-sm-6">
+					<div class="ree-card  mt60">
+						<div class="ree-card-img"><img src="{{asset('images/icons/dashboard.png')}}" alt="services"> </div>
+						<div class="ree-card-content mt40">
+							<h3 class="mb15">Clean Interface</h3>
+							<p>We meticulously craft designs with a keen focus on captivating the intended audience and effectively promoting the product as envisioned. This includes ensuring the product's display within applications is optimized for maximum impact and user engagement.<br><br><br></p>
+						</div>
+
+					</div>
+				</div> --}}
 				<div class="col-lg-4 col-sm-6">
 					<div class="ree-card  mt60">
 						<div class="ree-card-img"><img src="{{asset('images/icons/dashboard.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">Clean Interface</h3>
-							<p>We careful to keep design with the focused mind to target the audience towards the product promote as expected. Whenever it comes into awareness of the product display in the form of application.<br><br><br></p>
+							<p>We meticulously craft designs with a keen focus on captivating the intended audience and effectively promoting the product as envisioned. This includes ensuring the product's display within applications is optimized for maximum impact and user engagement.</p>
 						</div>
 
 					</div>
@@ -90,7 +110,7 @@
 						<div class="ree-card-img"><img src="{{asset('images/icons/testing.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
 							<h3 class="mb15">User Testing</h3>
-							<p>While testing the designed product, a tester matches the detailed analysis of the product which gives assurance to for the accomplishment of the final product.<br><br><br></p>
+							<p>During product testing, the tester conducts a thorough analysis to ensure that the design meets specifications. This meticulous examination provides confidence in the successful completion of the final product.<br><br><br></p>
 						</div>
 
 					</div>
@@ -184,7 +204,7 @@
 								<img src="{{asset('images/icons/code.png')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Development</h4>
-							<p>By collaborating with designers, our developers create pixel-perfect products that work on a variety of devices.<br><br><br></p>
+							<p>Our developers collaborate with designers to craft pixel-perfect products that function seamlessly across diverse devices.<br><br><br></p>
 						</div>
 					</div>
 				</div>
@@ -196,7 +216,8 @@
 								<img src="{{asset('images/icons/launching.png')}}" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Deploy</h4>
-							<p>We go beyond launching products to continuously testing, monitoring, and improving functionality and product experience.<br><br></p>
+							<p>
+								Continuously, we test, monitor, and refine product functionality and user experience, extending beyond initial launches for ongoing enhancement.<br><br></p>
 						</div>
 					</div>
 				</div>

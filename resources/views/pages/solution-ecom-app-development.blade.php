@@ -53,7 +53,7 @@
 				</div>
 			</div>
 
-			<div class="row mt30">
+			{{-- <div class="row mt30">
 				<div class="col-lg-4 col-sm-6">
 					<div class="ree-card  mt60">
 						<div class="ree-card-img"><img src="{{asset('images/icons/cart.pn')}}g" alt="services"> </div>
@@ -77,8 +77,8 @@
 					<div class="ree-card  mt60">
 						<div class="ree-card-img"><img src="{{asset('images/cashless-payment.png')}}" alt="services"> </div>
 						<div class="ree-card-content mt40">
-							<h3 class="mb15">Payment Gateway Integration</h3>
-							<p class="mb-3">We can help you to integrate the payment gateway to your website or application. We have expertise in integrating payment gateways like PayPal, Stripe and other payment gateways. </p>
+							<h3 class="mb15">Payment integration</h3>
+							<p class="mb-2">We can help you to integrate the payment gateway to your website or application. We have expertise in integrating payment gateways like PayPal, Stripe and other payment gateways. </p>
 						</div>
 
 					</div>
@@ -113,7 +113,66 @@
 
 					</div>
 				</div>
+			</div> --}}
+
+
+			<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt30">
+				<div class="col mb-5">
+					<div class="ree-card h-100 mt60 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/icons/cart.pn')}}g" alt="services"></div>
+						<div class="ree-card-content mt-auto">
+							<h3 class="mb15">B2B or B2C Marketplace</h3>
+							<p class="mb-2">We hold the potential to set up successful B2B or B2C eCommerce marketplaces that are customized as per the needs of the brand. Hire eCommerce developers to build fully-featured eCommerce websites suiting your taste.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col mb-5">
+					<div class="ree-card h-100 mt60 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/icons/online-store.png')}}" alt="services"></div>
+						<div class="ree-card-content mt-auto">
+							<h3 class="mb15">Online Store Development</h3>
+							<p class="mb-2">Being a top e-commerce development company, we manage distinct online store projects of varied complexities and in many domains, be they expertise in capital or consumer goods, media distribution, food delivery, public, or business services.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col mb-5">
+					<div class="ree-card h-100 mt60 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/cashless-payment.png')}}" alt="services"></div>
+						<div class="ree-card-content mt-auto">
+							<h3 class="mb15">Payment integration</h3>
+							<p class="mb-2">We can help you to integrate the payment gateway to your website or application. We have expertise in integrating payment gateways like PayPal, Stripe and other payment gateways.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col mb-5">
+					<div class="ree-card h-100 mt60 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/icons/price-tags.png')}}" alt="services"></div>
+						<div class="ree-card-content mt-auto">
+							<h3 class="mb15">eCommerce Aggregators</h3>
+							<p class="mb-2">eCommerce aggregators are digital platforms that make it easier for customers to compare and purchase products from multiple online retailers. These aggregators allow customers to quickly find the best deals and save time by comparing prices and features across multiple websites.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col mb-5">
+					<div class="ree-card h-100 mt60 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/icons/plugin.png')}}" alt="services"></div>
+						<div class="ree-card-content mt-auto">
+							<h3 class="mb15">Plugin And Module Development</h3>
+							<p class="mb-2">This process of creating and modifying software components to be used in a larger software application. In web development, plugins and modules are typically created to extend the functionality of a website or web application.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col mb-5">
+					<div class="ree-card h-100 mt60 d-flex flex-column">
+						<div class="ree-card-img"><img src="{{asset('images/icons/technical-support.png')}}" alt="services"></div>
+						<div class="ree-card-content mt-auto">
+							<h3 class="mb15">Maintenance & Support</h3>
+							<p class="mb-2">We provide ongoing maintenance and support services for our clients, which includes bug fixing and patching, security updates, performance tuning, and system administration. Our team is available 24/7 to provide support and troubleshooting services, and we can also help you.</p>
+						</div>
+					</div>
+				</div>
 			</div>
+			
 		</div>
 	</section>
 	<!--service expertise end-->
@@ -158,7 +217,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row justify-content-center mt30">
+			{{-- <div class="row justify-content-center mt30">
 				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
 					<div class="process-content ree-card">
 						<span class="setps hst-1">01</span>
@@ -234,7 +293,84 @@
 				</div>
 
 
+			</div> --}}
+
+			<div class="row justify-content-center mt30">
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-1">01</span>
+						<div class="process-block">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/pencil.svg')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>Decades Of Experience</h4>
+							<p>Quacklabs is committed to offering quality eCommerce development services. We have a team of highly experienced and certified developers who understand the client’s requirements. We provide full-fledged ecommerce services across the globe.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-2">02</span>
+						<div class="process-block">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/clock.png')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>On-time Delivery</h4>
+							<p>We follow a smart development approach to meet project deadlines. We have a team of skilled developers who are dedicated to timely delivery of the project. We do not let our clients compromise with quality and give priority to their time and money.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30 ">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-3">03</span>
+						<div class="process-block">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/prototype.svg')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>Agile Development Process</h4>
+							<p>We adopt an agile development methodology for rapid development of an ecommerce website that enables us to deliver high-quality products without any delays. Our team is capable of operating advanced tools and devices to deliver high-end solutions.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-4">04</span>
+						<div class="process-block">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/technical-support.png')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>Support & Maintenance</h4>
+							<p class="mb-3">As a leading ecommerce website development company, we ensure to provide the best services to our clients. We offer glitch-free support & maintenance services to our clients and help them resolve their product related complexities. </p><br>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-5">05</span>
+						<div class="process-block">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/grow.png')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>High Performance</h4>
+							<p class="mb-2">We believe that performance is the most critical aspect to make ecommerce development successful. We take every measure into account while ecommerce development to offer seamless performance.<br><br></p>
+						</div>
+					</div>
+				</div>
+			
+				<div class="col-lg-4 col-md-4 col-sm-6 mt30">
+					<div class="process-content ree-card d-flex flex-column h-100">
+						<span class="setps hst-6">06</span>
+						<div class="process-block">
+							<div class="process-icon">
+								<img src="{{asset('images/icons/privacy-policy.png')}}" alt="service" class="icon70 mb20">
+							</div>
+							<h4>NDA Policy</h4>
+							<p class="mb-3">We are always concerned about our client's data confidentiality and follow the standard measures to protect sensitive data that they share with us. We sign a NDA with our clients to ensure the project privacy and security of data.</p><br>
+						</div>
+					</div>
+				</div>
 			</div>
+			
 		</div>
 	</section>
 	<!---our work flow end-->

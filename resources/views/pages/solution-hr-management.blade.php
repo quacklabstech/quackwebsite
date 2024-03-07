@@ -56,9 +56,9 @@
             </div>
         </div>
 
-        <div class="row mt30">
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+        <div class="row mt30 ">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/software.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Employee Management Software </h3>
@@ -67,8 +67,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/software(1).png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Talent Onboarding Software</h3>
@@ -77,8 +77,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/pay.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Payroll Administration Software </h3>
@@ -87,8 +87,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/clock.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Time Management Software</h3>
@@ -97,8 +97,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/workforce.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">All-Inclusive Workforce Software</h3>
@@ -107,8 +107,8 @@
 
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="ree-card  mt60">
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="ree-card  mt60 h-100">
                     <div class="ree-card-img"><img src="{{asset('images/icons/grow.png')}}" alt="services"> </div>
                     <div class="ree-card-content mt40">
                         <h3 class="mb15">Performance Evaluation Software</h3>
@@ -167,7 +167,7 @@
         </div>
         <div class="row justify-content-center mt30">
             <div class="col-lg-4 col-md-4 col-sm-6 mt30">
-                <div class="process-content ree-card">
+                <div class="process-content ree-card h-100">
                     <span class="setps hst-1">01</span>
                     <div class="process-block">
                         <div class="process-icon">
@@ -191,7 +191,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 mt30 ">
-                <div class="process-content ree-card">
+                <div class="process-content ree-card h-100">
                     <span class="setps hst-3">03</span>
                     <div class="process-block">
                         <div class="process-icon">
@@ -215,7 +215,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 mt30">
-                <div class="process-content ree-card">
+                <div class="process-content ree-card h-100">
                     <span class="setps hst-4">05</span>
                     <div class="process-block">
                         <div class="process-icon">
@@ -227,7 +227,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 mt30">
-                <div class="process-content ree-card">
+                <div class="process-content ree-card h-100">
                     <span class="setps hst-4">06</span>
                     <div class="process-block">
                         <div class="process-icon">

@@ -259,8 +259,8 @@
                         <div class="creative-img reebgb"><img src="{{asset('images/svg/webdesign.svg')}}" alt="UI/UX Design"
                                 class="img-fluid" title="ui-ux"></div>
                         <div class="creative-cntnt">
-                            <h4 class="mb15"><a href="/company/portfolio/ui-and-ux-designs">UI/UX Design</a></h4>
-                            <p>We create design that captivates <br><br></p>
+                            <h4 class="mb15"><a href="/company/portfolio/ui-and-ux-designs">UI/UX <br> Design</a></h4>
+                            <p class="">We create design that captivates. <br><br></p>
                             <a href="/company/portfolio/ui-and-ux-designs" class="ree-card-link mt30">Read More <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                         </div>
@@ -283,7 +283,7 @@
                         <div class="creative-img reebgd"><img src="{{asset('images/svg/content.svg')}}" alt="Web Services"
                                 class="img-fluid" title="content"></div>
                         <div class="creative-cntnt">
-                            <h4 class="mb15"><a href="/web-services">Web Services</a></h4>
+                            <h4 class="mb15"><a href="/web-services">Web <br> Services</a></h4>
                             <p>Your first step towards a great online presence.</p>
                             <a href="/web-services" class="ree-card-link mt30">Read More <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
@@ -309,7 +309,7 @@
                         <div class="creative-cntnt">
                             <h4 style="margin-bottom:12px"><a href="/solutions/resource-augmentation/resource">Resource Augmentation</a>
                             </h4>
-                            <p>Tailored IT Services.</p>
+                            <p>Tailored IT with augmented resources.</p>
                             <a href="/solutions/resource-augmentation/resource" class="ree-card-link mt30">Read More <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                         </div>
@@ -333,7 +333,7 @@
                                 class="img-fluid" title="Products"></div>
                         <div class="creative-cntnt">
                             <h4 class="mb15"><a href="/our-product">Our Products</a></h4>
-                            <p>Robust applications for your business.</p>
+                            <p>Boost business with robust software solutions.</p>
                             <a href="/our-product" class="ree-card-link mt30">Read More <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                         </div>
@@ -354,7 +354,7 @@
                 </div>
                 <div class="col-lg-6 col-sm-4 vcenter">
                     <div class="link-sol-header">
-                        <a href="/get-quote" class="ree-card-link">Lets Talk <i
+                        <a href="/contact-us" class="ree-card-link">Lets Talk <i
                                 class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -370,7 +370,7 @@
                             </div>
                             <div class="work-details q-w">
                                 <p class="mb10">Job Portal</p>
-                                <h4><a href="https://www.appointone.com/" target="_blank">Website for Appointone</a> </h4>
+                                <h4><a href="https://www.appointone.com/" target="_blank">Website for Appointone Solutions</a> </h4>
                             </div>
                         </div>
                         <div class="fwb-main-x fwb-a">
@@ -393,7 +393,7 @@
                             </div>
                             <div class="work-details">
                                 <p class="mb10">ATS Landing Page</p>
-                                <h4><a href="https://talentincloud.com" target="_blank">Website for Talent In Cloud</a>
+                                <h4><a href="https://talentincloud.com" target="_blank">Website for Talent In <br> Cloud</a>
                                 </h4>
                             </div>
                         </div>
@@ -416,7 +416,7 @@
                             </div>
                             <div class="work-details">
                                 <p class="mb10">Web Design</p>
-                                <h4><a href="https://goldenhands.co.in/" target="_blank">Website For Goldnen hands</a>
+                                <h4><a href="https://goldenhands.co.in/" target="_blank">Website For Goldnen <br>hands</a>
                                 </h4>
                             </div>
                         </div>
@@ -795,35 +795,35 @@
                                 <span><i class="fas fa-clock"></i> 5 Min Read</span> </div>
                             <h4 class="mb15"><a href="/blog-details">Best Technology for Mobile Application
                                     Development</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+                            <p>Modern frameworks maximize scalability, performance, and user experience while enabling smooth mobile applications.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 mt30" data-aos="fade-up" data-aos-delay="500">
                     <div class="half-blog-card">
-                        <div class="half-blog-img"> <a href="/blog-details"><img src="{{asset('images/blogs/blog-img-1a.jpg')}}"
+                        <div class="half-blog-img"> <a href="/blog-details2"><img src="{{asset('images/blogs/blog-img-1a.jpg')}}"
                                     alt="blogs-two"  title="blog-img" class="img-fluid"> </a> </div>
                         <div class="half-blog-content">
                             <div class="blog-quick-inf mb20"><span><i class="far fa-calendar-alt"></i> 12 March 21</span>
                                 <span><i class="fas fa-clock"></i> 5 Min Read</span> </div>
-                            <h4 class="mb15"><a href="/blog-details">Exploring the Key Features of Laravel 7
+                            <h4 class="mb15"><a href="/blog-details2">Exploring the Key Features of Laravel 7
                                     Framework</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+                            <p>Laravel 7 has many robust features that improve performance, security, and efficiency of development.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 mt30" data-aos="fade-up" data-aos-delay="800">
                     <div class="half-blog-card">
-                        <div class="half-blog-img"> <a href="/blog-details"><img src="{{asset('images/blogs/blog-img-1b.jpg')}}"
+                        <div class="half-blog-img"> <a href="/blog-details3"><img src="{{asset('images/blogs/blog-img-1b.jpg')}}"
                                     alt="blogs-three"  title="blog-img" class="img-fluid"> </a> </div>
                         <div class="half-blog-content">
                             <div class="blog-quick-inf mb20"><span><i class="far fa-calendar-alt"></i> 12 March 21</span>
                                 <span><i class="fas fa-clock"></i> 5 Min Read</span> </div>
-                            <h4 class="mb15"><a href="/blog-details">Best Technology for Mobile Application
+                            <h4 class="mb15"><a href="/blog-details3">Best Technology for Web Application <br>
                                     Development</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+                            <p>React and Angular are two JavaScript frameworks that power dynamic, responsive websites. 
                             </p>
                         </div>
                     </div>
@@ -833,7 +833,7 @@
     </section>
     <!--end blogs-->
     <!--start contact block-->
-    <section class="home-contact pb120" data-background="{{asset('images/others/office.jpg')}}">
+    <section class="home-contact pb120" id="quotes" data-background="{{asset('images/others/office.jpg')}}">
         <div class="container">
             <div class="row zup flx-end">
                 <div class="col-right-a">
@@ -872,7 +872,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-right-b">
+                <div class="col-right-b" id="quotes">
                     <div class="form-contact-hom fourc-up-b">
                         <div class="form-block">
                             <div class="form-head">
