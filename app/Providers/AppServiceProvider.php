@@ -21,6 +21,6 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        View::composer('master_layout', MetaComposer::class);
+        // View::composer('master_layout', MetaComposer::class);
     }
 }
