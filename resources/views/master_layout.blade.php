@@ -2,10 +2,10 @@
 <html lang="zxx" class="no-js">
 <head>
   <meta charset="utf-8" />
-  <title>{{ $meta_title }}</title>
-  <meta name="description" content="{{ $meta_description }}">
-  <meta name="keywords" content="{{ $meta_keyword }}">
-  <link rel="canonical" href="{{ $meta_cannonical }}" />
+  <title>{{ $metaTitle }}</title>
+  <meta name="description" content="{{ $metaDescription }}">
+  <meta name="keywords" content="{{ $metaKeyword }}">
+  <link rel="canonical" href="{{ $metaCannonical }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme-color" content="#e8f1ff">
