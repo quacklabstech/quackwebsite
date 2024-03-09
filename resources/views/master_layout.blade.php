@@ -29,7 +29,7 @@
 </head>
 
 <body>
-  <!--Start Preloader -->
+  <!--Start Preloader start -->
   <div class="onloadpage" id="page-load">
     <div class="loader-div">
       <div class="on-img"><img src="{{ asset('images/loader.gif') }}" alt="Preloder-gif" title="preloder-gif" class="img-fluid" /><span>We are building it up for you...</span></div>
