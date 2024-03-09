@@ -175,6 +175,7 @@ class ComposerStaticInit5861fe89d0cf67c6447dd6f680a77d15
         ),
         'A' => 
         array (
+            'App\\Http\\Composers\\' => 19,
             'App\\' => 4,
         ),
     );
@@ -520,6 +521,10 @@ class ComposerStaticInit5861fe89d0cf67c6447dd6f680a77d15
         'Brick\\Math\\' => 
         array (
             0 => __DIR__ . '/..' . '/brick/math/src',
+        ),
+        'App\\Http\\Composers\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/app/Http/Composers',
         ),
         'App\\' => 
         array (
