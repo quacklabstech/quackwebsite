@@ -32,7 +32,7 @@
         "psr-4": {
             "Tests\\": "tests/"
         },
-        "files": ["app/http/helper.php"]
+        "files": ["app/Http/helper.php"]
     },
     "scripts": {
         "post-autoload-dump": [
