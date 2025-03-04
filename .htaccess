@@ -9,8 +9,7 @@ RewriteCond %{HTTP_HOST} !^quacklabs.in$
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://quacklabs.in/$1 [R=301,L]
 
-RewriteCond %{REQUEST_URI} !/public
-RewriteRule ^(.*)$ public/$1 [L]
+
 # Direct all requests to /public folder
 
 </IfModule>
