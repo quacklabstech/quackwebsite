@@ -6,9 +6,9 @@ RewriteEngine On
 # RewriteBase /
 # NOT needed unless you're using mod_alias to redirect
 RewriteEngine On
-RewriteCond %{HTTP_HOST} !^quacklabs.in$
-RewriteCond %{HTTPS} on
-RewriteRule ^(.*)$ https://quacklabs.in/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^www.quacklabs.in [NC] 
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 RewriteCond %{REQUEST_URI} !/public
 RewriteRule ^(.*)$ public/$1 [L]
