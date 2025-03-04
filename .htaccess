@@ -7,7 +7,7 @@ RewriteEngine On
 # NOT needed unless you're using mod_alias to redirect
 RewriteEngine On
 RewriteCond %{HTTP_HOST} ^www.quacklabs.in [NC] 
-RewriteCond %{HTTPS} off
+RewriteCond %{HTTPS} On
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 RewriteCond %{REQUEST_URI} !/public
